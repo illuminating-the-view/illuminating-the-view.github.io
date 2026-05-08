@@ -96,12 +96,13 @@ across living aural lineages include:
   that change the aggregates of the practitioner to better match the extraordinary experience of
   the beings in those realms.
 
-By contrast, modern interpretations of the jhānas that are not based on an aural lineage differ
-wildly from each other and from traditional definitions. As meditation had become out of fashion in
-Theravada countries and many (if not all) meditative aural lineages died out, the revival of
-meditation in the 19th and 20th centuries was done without the benefit of a living aural lineage,
-leading to a wide variety of interpretations within Theravada itself. The situation of systems that
-attempt to divorce the jhānas from their Buddhist context is even more diverse.
+By contrast, modern interpretations of the jhānas that are not based on an aural lineage differ from
+each other and from traditional definitions. As meditation had become out of fashion in Theravada
+countries and many (if not all) meditative aural lineages died out, the revival of meditation in the
+19th and 20th centuries was done without the benefit of a living aural lineage, leading to a wide
+variety of interpretations within Theravada itself about the role and thresholds of the jhānas. The
+situation of systems that attempt to divorce the jhānas from their Buddhist context is even more
+diverse.
 
 ## Defining the Jhānas
 
