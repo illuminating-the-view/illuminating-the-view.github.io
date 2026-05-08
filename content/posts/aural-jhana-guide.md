@@ -201,13 +201,15 @@ these factors are as follows:
   listed explicitly.
 
 A common criticism of Abhidharma is to paint it as a scholastic tradition that overcomplicates the
-teachings and has no practical value. However, Vasubandhu's definition of the first dhyāna is by
-itself a practical guide to reaching the first dhyāna. Even the very order of the factors is not
-accidental. So what are the instructions? One picks a wholesome object of meditation (such as the
-breath, a mantra, or a visualized image) and applies and sustains the mind on it. Due to the
-wholesomeness of the object, the meditator experiences uplifting joy and pleasure. This pleasure
-then infuses the body-mind continuum with a pleasant and easy feeling. When all these factors are
-present and unified by samādhi, the meditator has achieved the first dhyāna.
+teachings and has no practical value. However, Vasubandhu's definition of the first dhyāna, along
+with a small amount of aural knowledge that I will share, provides a practical guide to reaching the
+first dhyāna. Even the very order of the factors is not accidental.
+
+The instructions are as follows: One picks a wholesome object of meditation (such as the breath, a
+mantra, or a visualized image) and applies and sustains the mind on it. Due to the wholesomeness of
+the object, the meditator experiences uplifting joy and pleasure. This pleasure then infuses the
+body-mind continuum with a pleasant and easy feeling. When all these factors are present and unified
+by samādhi, the meditator has achieved the first dhyāna.
 
 As will be explained later, variations of the first dhyāna across different Buddhist vehicles are
 due to the different views and goals of those vehicles and how they interpret the thresholds of
@@ -215,14 +217,32 @@ those mental factors that count as a valid first dhyāna. However, the core defi
 sequence of practice does not change across them.
 
 The second, third, and fourth dhyānas are characterized by the dropping out of the factors of vicāra
-(and vitarka by implication), prīti, and then sukha respectively. Equanimity is not listed here as
-an explicit factor of the fourth dhyāna, but it is implicit that once the factors of mental and
-bodily pleasure and ease drop out, the mind is sustained without bias on the object of meditation.
+(and vitarka by implication), prīti, and then sukha respectively. Later in the chapter, the text
+defines factors of the second, third, and fourth dhyānas that appear as the factors of the first
+dhyāna drop out and that counteract them. They are not factors that have to be actively cultivated.
 
+- Second dhyāna:
+  - Adhyatmasamprasada: Internal purity of faith, the mental factor that causes the mind to be
+    confidently absorbed in the object of meditation.
+- Third dhyāna:
+  - Upeksa: Equanimity, a balanced attitude that is free from movement towards any object, whether
+    pleasant or unpleasant.
+  - Smrti: Mindfulness, not losing sight of the motive or reason for this equanimity.
+  - Samprajanya: awareness relating to this mindfulness.
+- Fourth dhyāna:
+  - Smrtiparisuddhi: pure mindfulness, a mindfulness more refined than the one in the third dhyāna
+    now that sukha has dropped out.
+  - Upeksaparisuddhi: pure equanimity, a state of equanimity that is more refined than the one in
+    the third dhyāna now that sukha has dropped out.
+  - Aduḥkhāsukhavedana: sensation of neither suffering nor happiness, an experience of a neutral
+    tone that is neither pleasant nor unpleasant.
+  
 From this definition there are several important points to note. First, higher dhyānas are not
 reached by trying to forcefully drop them out or by trying to induce higher states of prīti or
 sukha. They are reached when the factors needed to reach the next dhyāna become strong and unified
-enough that the remaining factor drops out naturally.
+enough that the remaining factor drops out naturally. Many of the modern interpretations that will
+be discussed later map higher states of bliss to higher dhyānas, but the most pleasant and blissful
+in a conventional sense is the first.
 
 Second and more important to the discussion of "light" vs "heavy" jhānas, it is central to
 understand what a mental factor is, and what the dropping out of vicāra in the second dhyāna
