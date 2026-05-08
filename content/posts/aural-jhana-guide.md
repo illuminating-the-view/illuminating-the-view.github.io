@@ -284,8 +284,7 @@ higher states of bliss or by thinking of space or nothingness within a state of 
 is not at all consistent with the understanding of dhyānas as concentration states that replicate
 the experiences of the form and formless deva realms. Only the fourth jhāna, where the grosser
 mental factors of prīti and sukha have dropped out, can be the proper basis for practicing the arūpa
-dhyānas. Although this is not mentioned explicitly in the Abhidharmakośa, Theravada meditation
-manuals make this point very clear.
+dhyānas.
 
 Later in the chapter, Vasubandhu defines sāmantakas, prefatory or threshold absorptions through
 which one enters the basic absorptions. Each basic absorption has such a threshold state. In a
