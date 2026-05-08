@@ -191,11 +191,13 @@ these factors are as follows:
 - Vicāra: the sustained application of the mind to the object of meditation. Since sustaining the
   mind on an object implies an initial placement, vitarka is only implicit in this definition of
   the first dhyāna.
-- Prīti: a pleasurable, joyful, and uplifting feeling that arises from continuously placing the mind
-  on the object of meditation.
-- Sukha: a pleasant and easy feeling that arises in the body-mind continuum from the stability of
-  the mind on the object of meditation. It is meant to be a more subtle and refined feeling than the
-  pleasure of prīti.
+- Prīti: a pleasurable and uplifting feeling of joy and ease that arises from taking a delighted and
+  trusting attitude towards the object of meditation.
+- Sukha: a pleasant and easy sensation that arises in the body and mind as they are suffused by
+  prīti and continued placement on the object. It is meant to be a more subtle and refined feeling
+  than the pleasure of prīti. Both prīti and sukha are meant to be pleasant, but they are not meant
+  to be overwhelming states of bliss, for such states would not be conducive to the unification of
+  the mind.
 - Samādhi: the neutral mental factor of one-pointedness or concentration that supports and unifies
   all the other factors. Because it is implicit and supports all the other factors, it was not
   listed explicitly.
@@ -207,9 +209,10 @@ first dhyāna. Even the very order of the factors is not accidental.
 
 The instructions are as follows: One picks a wholesome object of meditation (such as the breath, a
 mantra, or a visualized image) and applies and sustains the mind on it. Due to the wholesomeness of
-the object, the meditator experiences uplifting joy and pleasure. This pleasure then infuses the
-body-mind continuum with a pleasant and easy feeling. When all these factors are present and unified
-by samādhi, the meditator has achieved the first dhyāna.
+the object, the meditator experiences uplifting joy and pleasure that helps them sustain their
+interest on the object. This pleasure then infuses the body and mind with a more refined pleasant
+and easy feeling. When all these factors are present and unified by samādhi, the meditator has
+achieved the first dhyāna.
 
 As will be explained later, variations of the first dhyāna across different Buddhist vehicles are
 due to the different views and goals of those vehicles and how they interpret the thresholds of
@@ -605,6 +608,9 @@ attempts to interpret the jhānas in the absence of a living aural lineage:
 - Retrofitting the jhānas and the path to fit their own meditative experiences instead of accepting
   that those experiences do not match the traditional definitions. Often, this is done in tandem
   with claiming that traditional attainments are unrealistic, religious myths, or simply impossible.
+- Misunderstanding the nature of transmission by believing that receiving it gives one permission to
+  modify it to fit one's own views and experiences, mix it with other systems, or reinterpret it in
+  a way at odds with the views of the transmission.
 
 The rest of this section reviews some of the most popular jhāna reinterpretations and rates them on
 the above criteria.
@@ -834,6 +840,85 @@ practitioners to reach the authentic jhānas in a much shorter time frame. Such 
 least make the whole enterprise interesting despite all other issues. I encourage those interested
 in learning the jhānas to avoid Jhourney and instead learn from qualified teachers from a living
 aural lineage.
+
+### The Mind Illuminated
+
+The Mind Illuminated is a meditation manual written by John Yates, a teacher claiming to be trained
+in both the Theravada and Tibetan traditions. The bulk of the book is based on Asanga's nine stages
+of śamatha, the same framework that was later borrowed by Kamalaśīla for his Bhāvanākrama.
+Therefore, the bulk of the book will not be reviewed since it falls outside the scope of this guide.
+The jhānas are covered in an appendix and there Yates presents a wild taxonomy of jhānas that is for
+the most part his own invention.
+
+The introduction to his book clarifies why he felt the need to propagate his own system of
+meditation instructions. According to him, valid meditation maps and instructions lay buried in
+texts that are untranslated or hard to understand for the average practitioner. Those texts remain
+accessible only for serious scholars, who he claims do not have the necessary meditation experience
+to understand them. While that might be true for academic scholars outside the tradition,
+scholarship has not commonly been seen as an impediment for true insight within Buddhism. Such
+perceptions reflect an anti-intellectual bend unique to the modern Western meditation scene. It is
+much easier to list luminaries of the tradition who were both great scholars and great meditators
+than to list those who were only great meditators.
+
+Instead of suggesting that practitioners seek out qualified teachers who possess the knowledge and
+aural instructions to understand those texts, Yates takes it upon himself to reverse-engineer a
+system for the modern practitioner from a combination of his own reading of texts, the instructions
+of his teachers, and insights from psychology and neuroscience. Given that he claims to be properly
+trained in multiple traditions, it becomes hard to understand why he felt the need to create his own
+system instead of simply propagating the aural instructions he received. Either his teachers did not
+receive those instructions, or Yates is misrepresenting the extent of his training.
+
+The resulting system is a mix of multiple traditions not reflective of any, which he claims contains
+no contradictions and can be used in any kind of meditation practice. Such basic misunderstandings
+of the meaning and limits of transmission are common in the modern meditation scene, where teachers
+mix and match teachings from different traditions without understanding that those instructions are
+highly dependent on the view of the vehicle. Theravada and Tibetan practice cannot be mixed in such
+way without creating contradictions due to the simple fact that they have different goals. Proper
+transmission of a lineage only empowers the teacher to transmit what he received, not to create new
+systems out of whole cloth. Such a task is traditionally reserved for teachers regarded as highly
+realized masters, and even they need the approval of the community if they want their innovations to
+spread widely. Once again, his unfamiliarity with or disregard for the basic mechanisms of
+transmission casts doubt on the validity of his training.
+
+The section on the jhānas can now be reviewed. This section will be short because of a lot of
+overlap with the other jhāna reinterpretations and will focus on the taxonomy of jhānas he presents.
+Yates starts by presenting the standard definition of the jhānas as states of deep concentration and
+correctly maps out much of the understanding that was presented in the Abhidharma section. The
+problems start when he presents instructions on how to reach the jhānas. He presents not two, but
+three series of jhānas, called Whole-Body jhānas (Very Lite), Pleasure jhānas (Lite), and Luminous
+jhānas (Authentic). He claims that each of these series can be accessed from a different stage of
+his system, an invention with no support in any tradition. Yates then maps the factors of the jhānas
+to different stages of the Very Lite and Lite series, claiming for example that the factors of
+vitakka and vicāra are present in the 4th Very Lite jhāna. Once again, such mappings and series of
+jhānas have no support in any tradition and are no more than his own inventions, a point made much
+clearer by having the authentic jhānas sitting in the next column of his table.
+
+On rebirth, a topic central to the definition of the jhānas, Yates
+[claims](https://s3.amazonaws.com/dharmatreasure/20130322--what-the-buddha-thought--handout.pdf)
+that the Buddha used the language of rebirth to express his ideas in the language of his time, but
+that he did not mean it literally. His main argument is that the Buddha rejected the idea of a
+permanent self, so how can one be reborn if there is no self to be reborn? This question is commonly
+asked by beginners, and it is simply born out of a basic misunderstanding. While it is true that the
+Buddha rejected a permanent self, his teachings on rebirth were never meant to be taken
+allegorically and work perfectly well without a self. The idea of rebirth is central to dependent
+origination, the central Buddhist teaching that clarifies how beings experience life after life
+without ever having a permanent self.
+
+While such misunderstandings and badly framed questions are fine for beginners, that Yates trips
+over such basic points of doctrine once again casts doubt on his training. It should be no surprise
+that he puts his own misunderstandings above those of aural traditions, putting down their correct
+understanding as later corruptions by people who "had not fully grasped the import of the Buddha's
+teachings". Such audacious statements sadly remain common in the modern meditation scene, where they
+are rewarded with popularity, a large following, and the impression of doctrinal authority.
+
+He also commonly touches on the topic of stream entry, a traditional attainment on the path, even
+going as far as claiming it for [himself](https://www.youtube.com/watch?v=roTWZ9GcBMY). One of the
+main criteria for stream entry is having no more doubts about what the Buddha taught, so his views
+on rebirth, outright [declared
+false](https://suttacentral.net/mn117/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)
+by the Buddha, are incompatible with the attainment of stream entry. All the previous points and his
+now public record of sexual misconduct with students and sex workers, complete the picture of a
+teacher operating without the necessary understanding and ethical discipline.
 
 ### Conclusion
 
