@@ -145,9 +145,26 @@ The text starts by asserting that there are four dhyānas and that each of them 
 concentration state and as an existence. This highlights something that is often misunderstood or
 left out of modern interpretations. Dhyānas are not just meditative states, but also map to realms
 of existence that sentient beings can be reborn into. The concentration states are meant to
-replicate the experience of living in those realms. Traditional warnings about jhānas often center
-around their potential for causing rebirth in them, something not seen as a positive for
-practitioners of the path that aims for ending rebirth.
+replicate the experience of living in those realms.
+
+The realms of existence associated with the dhyānas are elaborated in chapter 3 of the
+Abhidharmakośa. The dhyānas map to the rūpa (form) and arūpa (formless) deva realms, which are the
+highest realms of existence within samsara. Before describing these realms, it should be noted that
+whether rebirth or the literal existence of these realms is real is not the main point.
+Understanding the dhyānas as states of concentration that replicate the experience of these realms
+helps us discard claims that the higher dhyānas are states of light concentration compatible with
+walking, opening one's eyes, or even attending to a new mental object.
+
+Form devas have transcended the desire realm, in which beings are mostly concerned with satisfying
+their sensual desires. They take pleasure in refined states of the mind analogous to dhyānas. They
+however, still have a body, that is, a rūpa skandha. Formless devas have transcended the form realm
+and take pleasure in even more refined mental pleasures and as a result they do not have a body nor
+sense organs.
+
+However refined any of the deva realms might be, they are still subject to impermanence, so
+traditional warnings about concentration dhyānas center around their potential for causing rebirth
+in their equivalent realms, something not seen as a positive for practitioners of the path that aims
+for ending rebirth.
  
 Dhyāna as an absorption is then defined as the application of the mind on a single object, for all
 dhyānas have samādhi (concentration or one-pointedness) as their nature. The term ekāgratā is a
@@ -227,33 +244,14 @@ state. Even if vicāra is understood as gross thinking as some interpreters do, 
 impossible to have the thought "I need to stop my meditation session" so the same problem would
 arise.
 
-The text continues to define the arūpa dhyānas as states that possess four skandhas. To understand
-what this means we have to remember that the dhyānas are also realms of existence, so an
-understanding of the deva realms is necessary. A deva is a sentient being that is reborn in an
-extremely pleasant realm of existence as a result of the ripening of good karma. There are three
-types of deva realms where devas enjoy progressively more subtle and refined pleasures: desire,
-form, and formless devas.
-
-Desire devas are the easiest to understand, since human beings are also born in the desire realm. In
-this realm, beings are concerned with satisfying their desire for sensual pleasures and avoiding
-sensual pain. Devas are born in places where suffering is minimal and pleasure is constant, beyond
-what could be imagined in the human realm. They have beautiful bodies, live in beautiful palaces,
-possess extra sensory powers, have very long lifespans, and they can spend it all engaging in
-sensual pleasures.
-
-Form devas have transcended the desire realm and take pleasure in the refined pleasures of the mind
-that are very similar to the pleasures of the jhānas. They however, still have a body, that is, a
-rūpa skandha. Formless devas have transcended the form realm and take pleasure in even more refined
-mental pleasures and as a result they do not have a body nor sense organs. However refined any of
-the deva realms might be, they are still subject to impermanence, so one should not have the goal of
-being reborn in them.
-
-The text then defines the associated concentration states of the arūpa dhyānas as arising out of
-separation from lower spheres. It defines separation as the process by which the meditator turns
-away from the pleasures of the current dhyāna towards an even more refined object. The arūpa dhyānas
-are defined of two types, the first three of which are named after what their preparatory exercise
-is based on. The final one is based on the weakness of perception, neither being active in the
-ordinary way nor completely absent.
+The text continues to define the arūpa dhyānas as states that possess four skandhas. As was
+explained earlier, the beings who inhabit the corresponding realms do not possess a body or sense
+organs. The text then defines the associated concentration states of the arūpa dhyānas as arising
+out of separation from lower spheres. It defines separation as the process by which the meditator
+turns away from the pleasures of the current dhyāna towards an even more refined object. The arūpa
+dhyānas are defined of two types, the first three of which are named after what their preparatory
+exercise is based on. The final one is based on the weakness of perception, neither being active in
+the ordinary way nor completely absent.
 
 - Ākāśānantyāyatana: base of infinite space.
 - Vijñānānantyāyatana: base of infinite consciousness.
@@ -542,9 +540,18 @@ vehicles based on renunciation and sense restraint to fit their needs.
 
 In contrast to how the jhānas are defined consistently across the different Buddhist vehicles, with
 only changes in the thresholds of the factors or re-definitions that fit the view of the vehicle,
-modernist interpretations of the jhānas usually commit some of the following errors in their
-attempts to interpret the jhānas in the absence of a living aural lineage. The most common ones
-include:
+modernist interpretations of the jhānas vary widely from traditional views and from each other.
+Before diving into the specifics, I should note that the polemical style of this section is not
+foreign to the Buddhist tradition, which is not afraid to call out wrong views and practices.
+Despite the image of Buddhism as a tradition where pointing out errors is uncompassionate, polemical
+texts are among the most common and important. The very first suttas of the Pali Canon
+([DN1](https://suttacentral.net/dn1/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin),
+[DN2](https://suttacentral.net/dn2/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin),
+and their Chinese and Tibetan parallels) are polemical texts where the Buddha dismantles the wrong
+views of several teachers of his time.
+
+Modernist interpretations of the jhānas usually commit some of the following errors in their
+attempts to interpret the jhānas in the absence of a living aural lineage:
 
 - Ignorance of the universal definition of a jhāna as a meditative state defined by the presence of
   certain factors and the absence of certain hindrances, leading to definitions of the jhānas that
