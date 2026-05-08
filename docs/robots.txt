@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://picturesareforbabies.com/sitemap.xml
+Sitemap: https://illuminating-the-view.github.io/sitemap.xml

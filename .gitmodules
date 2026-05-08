@@ -6,4 +6,4 @@
 	url = git@github.com:trane-project/pafb-book.git
 [submodule "themes/itv-book"]
 	path = themes/itv-book
-	url = git@github.com:martinmr/itv-book.git
+	url = git@github.com:illuminating-the-view/itv-book.git

@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://picturesareforbabies.com"
+base_url = "https://illuminating-the-view.github.io/"
 
 # Output to docs to be compatible with GitHub Pages
 output_dir = "docs"
