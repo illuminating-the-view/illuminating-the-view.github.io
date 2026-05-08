@@ -880,9 +880,9 @@ realized masters, and even they need the approval of the community if they want 
 spread widely. Once again, his unfamiliarity with or disregard for the basic mechanisms of
 transmission casts doubt on the validity of his training.
 
-The section on the jhānas can now be reviewed. This section will be short because of a lot of
-overlap with the other jhāna reinterpretations and will focus on the taxonomy of jhānas he presents.
-Yates starts by presenting the standard definition of the jhānas as states of deep concentration and
+The section on the jhānas can now be reviewed. The review will be short because of a lot of overlap
+with the other jhāna reinterpretations and will focus on the taxonomy of jhānas he presents. Yates
+starts by presenting the standard definition of the jhānas as states of deep concentration and
 correctly maps out much of the understanding that was presented in the Abhidharma section. The
 problems start when he presents instructions on how to reach the jhānas. He presents not two, but
 three series of jhānas, called Whole-Body jhānas (Very Lite), Pleasure jhānas (Lite), and Luminous
