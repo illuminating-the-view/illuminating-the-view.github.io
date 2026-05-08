@@ -1,0 +1,9 @@
+[submodule "zola/themes/pafb-book"]
+	path = zola/themes/pafb-book
+	url = git@github.com:trane-project/pafb-book.git
+[submodule "themes/pafb-book"]
+	path = themes/pafb-book
+	url = git@github.com:trane-project/pafb-book.git
+[submodule "themes/itv-book"]
+	path = themes/itv-book
+	url = git@github.com:martinmr/itv-book.git

@@ -1,0 +1,24 @@
+# The URL the site will be built for
+base_url = "https://picturesareforbabies.com"
+
+# Output to docs to be compatible with GitHub Pages
+output_dir = "docs"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+theme = "itv-book"
+
+generate_feeds = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+insert_anchor_links = "right"
+
+[extra]
+# Put all your custom variables here
+book_number_chapters = false
