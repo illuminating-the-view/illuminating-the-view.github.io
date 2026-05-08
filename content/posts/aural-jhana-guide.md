@@ -11,9 +11,9 @@ template = "blog-page.html"
 
 Due to the length of this guide, a table of contents with short summaries of each section is
 provided below. A reader interested in learning what jhānas are and how to practice them can read
-the sections [Defining the Jhānas](#defining-the-jhanas) and [Instructions on
-Dhyāna](#instructions-on-dhyana). The other sections provide a comparative analysis of the
-definitions of the jhānas across living Buddhist traditions and across several modernist
+the [Introduction](#introduction) and the sections [Defining the Jhānas](#defining-the-jhanas) and
+[Instructions on Dhyāna](#instructions-on-dhyana). The other sections provide a comparative analysis
+of the definitions of the jhānas across living Buddhist traditions and across several modernist
 interpretations.
 
 - [**Introduction**](#introduction): Defining Buddhism as an aural tradition that is transmitted by
