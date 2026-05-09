@@ -1,11 +1,8 @@
 +++
 title = "An Aural Lineage Guide to the Jhānas"
-
 description = """
 A comprehensive guide to understanding and practicing the jhānas through the lens of the aural lineages of Buddhism.
 """
-
-date = 2026-05-07
 template = "blog-page.html"
 +++
 
