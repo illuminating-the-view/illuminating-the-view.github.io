@@ -22,3 +22,13 @@ insert_anchor_links = "right"
 [extra]
 # Put all your custom variables here
 book_number_chapters = false
+
+default_language = "en"
+
+[languages.es]
+generate_feeds = true
+build_search_index = true
+
+[extra.language_names]
+en = "English"
+es = "Spanish"

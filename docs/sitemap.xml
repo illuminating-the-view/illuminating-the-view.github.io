@@ -4,13 +4,19 @@
         <loc>https://illuminating-the-view.github.io/</loc>
     </url>
     <url>
-        <loc>https://illuminating-the-view.github.io/home/</loc>
+        <loc>https://illuminating-the-view.github.io/es/</loc>
     </url>
     <url>
-        <loc>https://illuminating-the-view.github.io/posts/</loc>
+        <loc>https://illuminating-the-view.github.io/es/essays/</loc>
     </url>
     <url>
-        <loc>https://illuminating-the-view.github.io/posts/aural-jhana-guide/</loc>
+        <loc>https://illuminating-the-view.github.io/essays/</loc>
+    </url>
+    <url>
+        <loc>https://illuminating-the-view.github.io/essays/aural-jhana-guide/</loc>
         <lastmod>2026-05-07</lastmod>
+    </url>
+    <url>
+        <loc>https://illuminating-the-view.github.io/home/</loc>
     </url>
 </urlset>
