@@ -465,11 +465,10 @@ and clear away their remaining cognitive obscurations.
 Since Bodhisattvas are already motivated to clear away their cognitive obscurations, their
 development centers around understanding the emptiness of phenomena. The cultivation of śamatha is
 meant to produce a stable and unified mind that can then be used to investigate phenomena and
-realize their emptiness. Given that the second dhyāna is a state of absorption where the mind cannot
-attend to mental objects, higher dhyānas cannot be unified with vipaśyanā. The first dhyāna, on the
-other hand, must be defined in a way that allows for mental monitoring and investigation of
-phenomena, which is why the threshold for one-pointedness is not so high that it precludes such
-investigation and sensory input.
+realize their emptiness. Therefore, the mental factor of ekāgratā is redefined to mean the kind of
+flexible, supple, and unified attention that serves to perfect the realization of emptiness instead
+of the deeper absorption required to enter higher dhyānas. Because the mind cannot attend to mental
+objects in these higher dhyānas, they cannot be unified with vipaśyanā.
 
 The Mahayana defines ten stages in the path of a Bodhisattva who has realized the emptiness of
 phenomena, called the bhūmis. Traditional sources map the development of the start of the practice
@@ -482,12 +481,11 @@ and sense restraint from Theravada applies here.
 The standard presentation of the dual development of śamatha and vipaśyanā in Mahayana is presented
 in Kamalaśīla's Bhāvanākrama ("Stages of Meditation"). Its framework of the nine stages of mental
 abiding depicts the meditator as a monk pursuing an elephant led by a monkey. The elephant
-represents the initially wild mind and the monkey represents distraction and mental agitation. A
-rabbit representing subtle dullness appears later on the elephant's back. Through the sustained
-application of mindfulness and clear comprehension, the monkey is subdued, the elephant gradually
-whitens, and the mind eventually rests without effort on its object. The images summarize the stages
-of development of the first dhyāna, which produces a pliable and unified mind ready for the
-cultivation of vipaśyanā and the realization of emptiness.
+represents the initially wild mind and the monkey represents distraction and mental agitation.
+Through the sustained application of mindfulness and clear comprehension, the monkey is subdued, the
+elephant gradually whitens, and the mind eventually rests without effort on its object. The images
+summarize the stages of development of the first dhyāna, which produces a pliable and unified mind
+ready for the cultivation of vipaśyanā and the realization of emptiness.
 
 ### Vajrayana
 
