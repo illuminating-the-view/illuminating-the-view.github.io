@@ -39,10 +39,14 @@ correct mode of receiving Buddhist teachings, which is done through listening to
 a qualified teacher, who in turn received them in the same way from their teacher. 
 
 The teacher transmits not only the words of the teachings, but also their meanings, which cannot be
-fully captured in the words, as the texts often omit core details that are only known to those who
-received the aural teachings that come with the texts. Even when the meanings are straightforward,
-they can be lost when the words are translated from their original languages and as the meanings in
-those original languages change over centuries.
+fully captured in the words. The texts sometimes omit details that are only known to those who
+received the aural teachings. The reasons for such omissions range from the natural consequence of
+the texts being transcripts of oral teachings that were never meant to be read in isolation to the
+use of "twilight language" that intentionally obscures the text and can only be deciphered through
+the aural lineage. Furthermore, texts alone lack any capacity to provide feedback on practical
+matters, or to correct the students when they misinterpret the words. Even when the meanings are
+straightforward, they can be lost when the words are translated from their original languages and as
+the meanings in those original languages change over centuries.
 
 Attempting to understand Buddhist teachings through reading alone is a modern phenomenon that
 assumes the texts can be read and understood in isolation from the aural lineage that preserved
