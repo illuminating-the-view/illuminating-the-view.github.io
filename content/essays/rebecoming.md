@@ -478,21 +478,31 @@ explain the mechanism by which this happens.
 
 The rest of his arguments are rebuttals to objections that arise from observing the intimate
 relationship between the mind and the body, and taking it as evidence that the mind is a product of
-the body. These counterarguments live to this day, where the incredible advances in science are used
-as evidence for the exact position that modernist interpreters told us was too advanced for the time
-of the Buddha.
+the body. Given that Dharmakīrti's argument, as well as all of Buddhism, relies on rejecting that
+the mind has a material cause, the Buddhist position on the relationship between mind and body
+should be examined in more detail. 
 
-I believe it's unnecessary to go into the details of these rebuttals because they ignore that
-Buddhism never denies that the physical aggregates of the body condition the mind. It only denies
-that the body causes the mind, much the same way a computer conditions the flow of electricity
-without ever causing it. All current scientific evidence is perfectly compatible with both
-positions, so only direct proof of a moment of consciousness arising out of matter would prove
-materialism.
+Buddhism asserts that sentient beings are made up of five dependently arisen aggregates: form,
+feeling, perception, mental formations, and consciousness. Only the first one is physical, while the
+rest are mental. The form aggregates conditions and interacts with all the mental aggregates, but it
+is not their cause. As an analogy, a computer conditions the flow of electricity by means of routing
+it through its circuits, but it does not cause the electricity. Throwing water on a working computer
+and observing the effects does not constitute proof that the computer is the cause of the
+electricity. At conception, consciousness appropriates the form aggregates of the new body. At
+death, consciousness separates from them and moves on to a new set of form aggregates unless the
+cycle of dependent origination is reversed entirely. From a Buddhist standpoint, all current
+scientific evidence is perfectly compatible with both positions, and only direct proof of matter
+causing, not merely conditioning, a moment of consciousness or any of the other mental aggregates
+could tip the balance to the materialist position.
 
-The Buddhist position only requires that the present moment of consciousness is caused by a previous
-moment of consciousness, something that is observable to all of us every day. Those who advance a
-position in which our subjective, cognizant, and luminous experience arises out of something that
-possesses none of those qualities must be the ones shouldering the burden of proof.
+The Buddhist position relies on two self-evident observations: mind possesses qualities
+fundamentally different from those of matter and every moment of our conscious experience precedes
+from the previous one. By contrast, the materialist position, has been successful at mapping the
+correlations between mind and body but remains so unable to explain causation that the impasse has
+been named the "hard problem of consciousness". The problem is not so hard for those ready to accept
+that fundamentally different things are indeed different. Those who advance a position in which our
+subjective, cognizant, and luminous experience arises out of something that possesses none of those
+qualities must be the ones shouldering the burden of proof. 
 
 Dharmakīrti's argument is not meant to be a proof of rebecoming on its own, but a proof that a
 continuity of consciousness beyond birth and death is not only possible, but much more plausible
@@ -555,4 +565,5 @@ believing consciousness disappears at death or that a permanent self transmigrat
 life, the Buddha's middle way remains the thread that holds all 84,000 Buddhist teachings together.
 Like Maitreya explained to Śāriputra, seeing dependent origination is seeing the Dharma, and seeing
 the Dharma is seeing the Buddha. In contrast, movements and teachers that deny rebecoming or teach
-that it only applies to this life will continue to blind their followers to the Dharma.
+that it only applies to this life will continue to blind their followers to the Dharma and the
+Buddha.
