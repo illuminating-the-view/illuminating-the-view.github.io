@@ -43,8 +43,8 @@ ahead will take plenty of space, this essay will not cover the process by which 
 rebecoming came to be so common. Those interested in that topic can refer to the book "The Making of
 Buddhist Modernism" by David McMahan.
 
-The goal of this essay is to provide clarity to those who wonder about the role and centrality of
-rebecoming in Buddhism, not to condition anyone to accept it. Those who disagree should follow the
+The goal of this essay is not to prove rebecoming to those skeptical of it, but to provide clarity
+to those who wonder about its role and centrality in Buddhism. Those who disagree should follow the
 Buddha's advice and search for a different path that better fits them. Teaching a version of
 Buddhism that rejects or marginalizes rebecoming serves neither the Dharma nor spiritual seekers.
 
