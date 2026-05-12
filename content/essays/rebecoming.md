@@ -548,11 +548,10 @@ learning why the lite jhānas cannot be used for this practice can read my
 [essay](@/essays/aural-jhana-guide.md) on the subject.
 
 Buddhist vehicles also contain practices meant to clear away the accumulated karma of past lives
-without needing to recollect them. Although they do not reveal past live memories directly, the
-effects of these practices reveal that the habitual traces of a sentient being are too large to
-belong to a single lifetime. From personal experience and without revealing too much due to the vows
-to secrecy in Vajrayana, the most powerful of these practices in the Vajrayana tradition are too
-simple, too strong (even in very small doses), and produce results consistent with the intended
+without needing to recollect them. The effects of these practices reveal that the habitual traces of
+a sentient being are too large to belong to a single lifetime. From personal experience and without
+revealing too much due to the vows to secrecy in Vajrayana, the most powerful of these practices are
+too simple, too strong (even in very small doses), and produce results consistent with the intended
 effects (strange dreams involving almost forgotten memories, emotional releases, etc.) that make
 rebecoming much easier to accept without direct knowledge of past lives.
 
