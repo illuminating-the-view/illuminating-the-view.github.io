@@ -29,6 +29,6 @@ build_search_index = true
 # Put all your custom variables here
 book_number_chapters = false
 
-[extra.language_names]
-en = "English"
+[extra.translation_lang_names]
+en = "inglés"
 es = "Spanish"
