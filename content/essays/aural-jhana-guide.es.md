@@ -1,5 +1,5 @@
 +++
-title = "Una guía del linaje auditivo alas jhānas"
+title = "Una guía del linaje auditivo a las jhānas"
 description = """
 Una guía completa para entender y practicarlas jhānas a través de la lente de los linajes auditivos del Budismo.
 """
