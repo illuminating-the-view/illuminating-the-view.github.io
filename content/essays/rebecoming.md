@@ -431,8 +431,7 @@ Since the Buddha taught that rebecoming is a verifiable process, the last sectio
 covers the valid sources of knowledge recognized by Buddhist epistemology that can be used to verify
 it for oneself. Epistemology studies the nature of knowledge and how it can be acquired. There is
 some variation within the tradition on which sources of knowledge are valid, but this section will
-cover the testimony of reliable sources, inference, and direct perception, which tend to be the most
-commonly accepted ones. 
+cover the most commonly accepted ones, from weakest to strongest. 
 
 ### Testimony of Reliable Sources
 
@@ -511,20 +510,9 @@ must undertake the path of direct perception.
 
 ### Direct Perception
 
-The main source of knowledge considered valid for verifying rebecoming is direct perception. As
-mentioned by Maitreya in the Rice Seedling Sutra, seeing dependent origination is seeing the Dharma,
-so the entire path of Buddhism consists of seeing and reversing the causes and conditions that lead
-to the cycle of rebecoming. For both the paths of arahat and Bodhisattva, the initial stage of
-awakening that establishes one firmly on the path brings about a direct perception of the lack of a
-personal self or the emptiness of all phenomena respectively. Such direct perception dispels any
-doubts about the mechanism of rebecoming. Such direct seeing clarifies the mechanism of rebecoming
-that inference alone cannot reveal. It should be noted that direct perception about rebecoming could
-happen even earlier, but that these stages are the traditional milestones at which such confidence
-on rebecoming occurs at the latest.
-
-Apart from continuing on the path until reaching either stream-entry or the first Bodhisattva bhūmi,
-there are practices meant to provide access to memories of past lives, considered one of the three
-supernormal knowledges. The Buddha gives a summary of the instructions in [MN
+The main source of knowledge considered valid for verifying rebecoming is direct perception.
+Buddhism includes practices meant to provide access to memories of past lives, considered one of the
+three supernormal knowledges. The Buddha gives a summary of the instructions in [MN
 36](https://suttacentral.net/mn36/en/sujato):
 
 > With the giving up of pleasure and pain, and the ending of former happiness and sadness, I entered
@@ -547,13 +535,44 @@ the fourth jhāna of "lite" jhāna systems that have become recently popular. Th
 learning why the lite jhānas cannot be used for this practice can read my
 [essay](@/essays/aural-jhana-guide.md) on the subject.
 
+While these practices provide direct perception of past lives and the mechanisms of rebecoming, they
+are not the primary method. As mentioned by Maitreya in the Rice Seedling Sutra, seeing dependent
+origination is seeing the Dharma, so the entire path of Buddhism consists of seeing and reversing
+the causes and conditions that lead to the cycle of rebecoming. For both the paths of arahat and
+Bodhisattva, the initial stage of awakening that establishes one firmly on the path brings about a
+direct perception of the lack of a personal self or the emptiness of all phenomena respectively.
+Such direct perception dispels any doubts about the mechanism of rebecoming. Such direct seeing
+clarifies the mechanism of rebecoming that inference alone cannot reveal. It should be noted that
+direct perception about rebecoming could happen even earlier, but that these stages are the
+traditional milestones at which such confidence on rebecoming occurs at the latest.
+
+These milestones provide a first glimpse at nirvana, a word whose synonym "amata" means "the
+deathless". In other words, they provide a glimpse of a modality of existence that the Buddha
+[describes](https://suttacentral.net/ud8.3/en/sujato) as:
+
+> “There is, mendicants, freedom from rebirth, freedom from what has been produced, made, and
+> conditioned. If there were no freedom from rebirth, freedom from what has been produced, made, and
+> conditioned, then you would find no escape here from rebirth, from what has been produced, made,
+> and conditioned. But since there is freedom from rebirth, freedom from what has been produced,
+> made, and conditioned, an escape is found from rebirth, from what has been produced, made, and
+> conditioned.”
+
+From an initial glimpse of this unconditioned reality and our observations of our tendency to
+perceive our aggregates as permanent and containing a self, both awake and in dreams, it is not so
+difficult to accept that this habitual misperception exists beyond our current lifetime and will
+result in some type of cyclical existence until it is completely eradicated.
+
 Buddhist vehicles also contain practices meant to clear away the accumulated karma of past lives
-without needing to recollect them. The effects of these practices reveal that the habitual traces of
-a sentient being are too large to belong to a single lifetime. From personal experience and without
-revealing too much due to the vows to secrecy in Vajrayana, the most powerful of these practices are
-too simple, too strong (even in very small doses), and produce results consistent with the intended
-effects (strange dreams involving almost forgotten memories, emotional releases, etc.) that make
-rebecoming much easier to accept without direct knowledge of past lives.
+without needing to recollect them or have a direct perception of dependent origination. Many of
+these practices belong to the Vajrayana tradition, which states that the karmic traces of sentient
+beings are stored within the physical body and can be cleared through practices based on the
+tradition's understanding of the body. The effects of these practices reveal that the habitual
+traces of a sentient being are too large to reasonably belong to a single lifetime. From personal
+experience and without revealing too much due to the vows to secrecy in Vajrayana, the most powerful
+of these practices are too simple, too strong (even in very small doses), and produce results
+consistent with the intended effects (strange dreams involving almost forgotten memories, emotional
+releases, etc.) that make rebecoming much easier to accept without direct knowledge of past lives
+and before the traditional milestones of stream entry and the first stage of a Bodhisattva.
 
 ## Conclusion
 
