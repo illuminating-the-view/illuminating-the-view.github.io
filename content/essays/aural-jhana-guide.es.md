@@ -1035,20 +1035,22 @@ contradictorio dar mis propias instrucciones después de pasar tanto tiempo argu
 necesidad de recibir instrucciones auditivas de un maestro calificado, pero tengo varias razones
 para hacerlo.
 
-Primero, las personas interesadas en aprenderlas jhānas los intentarán antes de buscar un maestro,
+Primero, las personas interesadas en aprender las jhānas los intentarán antes de buscar un maestro,
 y al hacerlo se encontrarán con material que no solo es inexacto sino potencialmente dañino para su
-práctica y su comprensión de cómolas jhānas encajan en el resto del camino. Por lo tanto, creo que
+práctica y su comprensión de cómo las jhānas encajan en el resto del camino. Por lo tanto, creo que
 es una cuestión de reducción de riesgo proporcionar algunas instrucciones iniciales que se basen en
-una comprensión más precisa. Todos aquellos que las pongan en práctica deben buscar un maestro
-calificado cuando estén listos. Si encuentran las instrucciones útiles y están interesados en buscar
-un enfoque similar, deben buscar un maestro que pueda explicar cómo se desarrolla *śamatha* en los
-linajes Mahamudra o Dzogchen Semde.
+una comprensión más precisa. Las instrucciones están en concordancia con la práctica de la
+recitación del nombre del Buda Amitābha. Esta práctica es la más popular en todo el budismo por
+número de practicantes, y la práctica laica por excelencia. Aquellos interesados en profundizar
+deben buscar un maestro calificado en la tradición de la Tierra Pura, o en otra tradición si se
+prefiere un objeto de meditación diferente.
 
 Más importante aún, las instrucciones se utilizan para ilustrar cómo el marco desarrollado en las
-secciones anteriores puede usarse para desarrollar una versión de la práctica adecuada para
-practicantes laicos. Esta versión no diluye los umbrales tradicionales y no requiere el cultivo de
-la renuncia y la restricción de los sentidos, lo que obstaculizará el progreso de aquellos sin las
-condiciones adecuadas. Las instrucciones hacen las siguientes concesiones:
+secciones anteriores puede usarse para encontrar una versión de la práctica adecuada para
+practicantes laicos y ponerla en contexto. Esta versión no diluye los umbrales tradicionales y no
+requiere el cultivo de la renuncia monástica y la restricción de los sentidos, lo que obstaculizará
+el progreso de aquellos sin las condiciones adecuadas. Las instrucciones hacen las siguientes
+concesiones:
 
 - Solo se enseñará el primer *dhyāna*. Dado que el segundo *dhyāna* y superiores son estados de
   absorción profunda, la mayoría de las personas encontrarán difícil, si no imposible, alcanzarlos
@@ -1062,12 +1064,11 @@ condiciones adecuadas. Las instrucciones hacen las siguientes concesiones:
   - Aquellos interesados en esas versiones deben entender que deben cultivar las cualidades
     necesarias que son requisitos previos y conectarse con un linaje auditivo vivo que pueda
     guiarlos en el proceso.
-- No hay instrucciones específicas de Dzogchen aparte de aquellas para el primer *dhyāna*. Dado que
-  esto es un preliminar, las instrucciones no contienen detalles que revelen nada sobre las
-  prácticas principales. Algunos detalles de las instrucciones adecuadas que sí lo hacen, relativos
-  a la comprensión de Dzogchen del cuerpo sutil, se omiten.
+  - Usar un marco de Dzogchen o Mahamudra no es una modificación significativa de la recitación del
+    nombre, que comúnmente se realiza durante las actividades diarias con los sentidos abiertos por
+    necesidad.
 
-Primero, debes elegir un objeto de meditación adecuado. Puede ser la respiración, una imagen
+Todo practicante de jhāna debe elegir un objeto de meditación adecuado. Puede ser la respiración, una imagen
 visualizada, un mantra o *dhāraṇī*, o una visualización de la anatomía sutil. No todo objeto
 beneficioso y adecuado de meditación será igualmente efectivo para todos, y se dice que algunos son
 mucho más efectivos porque están asociados con Budas y Bodhisattvas poderosos, o con comprensiones
@@ -1140,8 +1141,7 @@ práctica.
 Una vez que tu práctica del primer *dhyāna* esté bien establecida, puedes usar la flexibilidad,
 plasticidad y estabilidad de la mente en tu búsqueda de otras prácticas budistas,las jhānas
 superiores bajo la guía adecuada, o para tu propio beneficio y el beneficio de quienes te rodean. Es
-importante recordar las advertencias de que sin la comprensión adecuada, la primera jhāna por sí
-mismo puede crear las condiciones para una mayor ignorancia y apego, y que tales efectos no
-requieren una creencia en el renacimiento o la otra vida para ser reconocidos como peligros
-potenciales. Simplemente porque esos apegos son mucho más refinados y sutiles que las adicciones más
+importante recordar las advertencias de que sin la comprensión adecuada, las jhānas pueden crear
+las condiciones para una mayor ignorancia y apego, y que tales efectos no requieren una creencia en
+el renacimiento o la otra vida para ser reconocidos como peligros potenciales. Simplemente porque esos apegos son mucho más refinados y sutiles que las adicciones más
 burdas no significa que estén exentos de sus propios peligros y potencial de mal uso.

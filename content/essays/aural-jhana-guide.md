@@ -976,24 +976,25 @@ up in favor of naming them something like "Super Bliss States".
 
 ## Instructions on Dhyāna
 
-The last section presents instructions on how to practice the jhānas. It might seem contradictory
-to give my own instructions after spending so much time arguing for the necessity of receiving aural
+The last section presents instructions on how to practice the jhānas. It might seem contradictory to
+provide instructions after spending so much time arguing for the necessity of receiving aural
 instructions from a qualified teacher, but I have several reasons for doing so.
 
 First, people interested in learning the jhānas will attempt them before seeking out a teacher, and
 in doing so will come across material that is not only inaccurate but potentially harmful to their
 practice and their understanding of how the jhānas fit into the rest of the path. Therefore, I
 believe it is a matter of risk reduction to provide some initial instructions that are based on a
-more accurate understanding. All those who put them in practice should seek out a qualified teacher
-when they are ready. If they find the instructions helpful and are interested in seeking a similar
-approach, they should look for teacher that can explain how śamatha is developed in the Mahamudra or
-Dzogchen Semde lineages.
+more accurate understanding. The instructions are in accord with the practice of the recitation of
+the name of Amitābha Buddha. This practice is the most popular in all of Buddhism by number of
+practitioners, and the lay practice par excellence. Those interested in pursuing it further should
+seek out a qualified teacher in the Pure Land tradition, or in another tradition if a different
+meditation object is preferred.
 
 More importantly, the instructions are used to illustrate how the framework developed in the
-previous sections can be used to develop a version of practice fit for lay practitioners. This
-version does not water down traditional thresholds and does not require the cultivation of
-renunciation and sense restraint, which will hamper progress in those without the right conditions.
-The instructions make the following concessions:
+previous sections can be used to find a version of practice fit for lay practitioners and put it
+into context. This version does not water down traditional thresholds and does not require the
+cultivation of monastic renunciation and sense restraint, which will hamper progress in those
+without the right conditions. The instructions make the following concessions:
 
 - Only the first dhyāna will be taught. Given that the second dhyāna and above are states of deep
   absorption, most people will find it difficult if not impossible to reach them outside a monastic
@@ -1005,16 +1006,14 @@ The instructions make the following concessions:
   - Those interested in those versions should understand that they must cultivate the necessary
     qualities that are prerequisites and to connect with a living aural lineage that can guide them
     in the process.
-- There are no specific Dzogchen instructions other than those for the first dhyāna. Since this is a
-  preliminary, the instructions do not contain details that reveal anything about the main
-  practices. A few details from the proper instructions that do, concerning Dzogchen's understanding
-  of the subtle body, are omitted. 
+  - Using a Dzogchen or Mahamudra framework is not a significant modification of name recitation,
+    which is commonly done during daily activities with the senses open by necessity.
 
-First, you must choose a suitable object of meditation. That can be the breath, a visualized image,
-a mantra or dharani, or a visualization of subtle anatomy. Not every wholesome and suitable object
-of meditation will be equally effective for everyone, and some are said to be much more effective
-because they are associated with powerful Buddhas, Bodhisattvas, or with more refined understandings
-of the body.
+Every jhāna practitioner must choose a suitable object of meditation. That can be the breath, a
+visualized image, a mantra or dharani, or a visualization of subtle anatomy. Not every wholesome and
+suitable object of meditation will be equally effective for everyone, and some are said to be much
+more effective because they are associated with powerful Buddhas, Bodhisattvas, or with more refined
+understandings of the body.
 
 While you are free to use any object of your choice, the guide uses recitation on the name of the
 Buddha Amitābha as the example object of meditation. Those unsure of what to choose are welcome to
@@ -1080,8 +1079,8 @@ continue and risk developing aversion to the practice.
 Once your practice of the first dhyāna is well-established, you can use the pliancy, flexibility,
 and stability of the mind in your pursuit of other Buddhist practices, the higher jhānas under
 proper guidance, or for your own benefit and the benefit of those around you. It is important to
-remember the warnings that without proper insight, the first jhāna by itself can create the
-conditions for further ignorance and attachment, and that such effects do not require a belief in
-rebirth or the afterlife to be recognized as potential dangers. Simply because those attachments are
-much more refined and subtle than coarser addictions does not mean they are without their own
-dangers and potential for misuse.
+remember the warnings that without proper insight, the jhānas can create the conditions for further
+ignorance and attachment, and that such effects do not require a belief in rebirth or the afterlife
+to be recognized as potential dangers. Simply because those attachments are much more refined and
+subtle than coarser addictions does not mean they are without their own dangers and potential for
+misuse.
