@@ -1006,8 +1006,9 @@ without the right conditions. The instructions make the following concessions:
   - Those interested in those versions should understand that they must cultivate the necessary
     qualities that are prerequisites and to connect with a living aural lineage that can guide them
     in the process.
-  - Using a Dzogchen or Mahamudra framework is not a significant modification of name recitation,
-    which is commonly done during daily activities with the senses open by necessity.
+  - Using a Dzogchen or Mahamudra understanding of one-pointedness is not a significant modification
+    of name recitation, which is commonly done during daily activities with the senses open by
+    necessity.
 
 Every jhāna practitioner must choose a suitable object of meditation. That can be the breath, a
 visualized image, a mantra or dharani, or a visualization of subtle anatomy. Not every wholesome and

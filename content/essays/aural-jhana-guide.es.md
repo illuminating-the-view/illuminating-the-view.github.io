@@ -1064,9 +1064,9 @@ concesiones:
   - Aquellos interesados en esas versiones deben entender que deben cultivar las cualidades
     necesarias que son requisitos previos y conectarse con un linaje auditivo vivo que pueda
     guiarlos en el proceso.
-  - Usar un marco de Dzogchen o Mahamudra no es una modificación significativa de la recitación del
-    nombre, que comúnmente se realiza durante las actividades diarias con los sentidos abiertos por
-    necesidad.
+  - Usar la comprensión de Dzogchen o Mahamudra de la concentración en un solo punto no es una
+    modificación significativa de la recitación del nombre, que comúnmente se realiza durante las
+    actividades diarias con los sentidos abiertos por necesidad.
 
 Todo practicante de jhāna debe elegir un objeto de meditación adecuado. Puede ser la respiración, una imagen
 visualizada, un mantra o *dhāraṇī*, o una visualización de la anatomía sutil. No todo objeto
