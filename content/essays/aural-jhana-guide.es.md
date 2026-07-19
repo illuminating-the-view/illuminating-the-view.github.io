@@ -997,14 +997,7 @@ No hay evidencia que haya podido encontrar de que alguno de estos sistemas esté
 secuencia completa de jhānas o siquiera alcanzando el umbral del segundo, y ninguna evidencia de que
 sus creadores hayan notado las contradicciones muy obvias entre sus definiciones y cómo la ausencia
 de *vitarka* y *vicāra* impide la posibilidad de que sus interpretaciones de estas jhānas superiores
-sean correctas.
-
-Se necesita poca experiencia o evidencia para que ellos mapeen esas experiencias alas jhānas, y las
-muchas definiciones y comprensiones contradictorias de los linajes auditivos se descartan como mitos
-religiosos, logros poco realistas o corrupción posterior de las enseñanzas originales que ellos de
-algún modo han descubierto. Un ejemplo de este patrón es cómo el mapeo de las jhānas a los reinos de
-la forma y sin forma y sus implicaciones se descartan en favor de tratarlas jhānas como estados
-ligeros de concentración.
+sean correctas. Se necesita poca experiencia o evidencia para que ellos mapeen esas experiencias a las jhānas, y las muchas definiciones y comprensiones contradictorias de los linajes auditivos se descartan como mitos religiosos, logros poco realistas o corrupción posterior de las enseñanzas originales que ellos de algún modo han descubierto.
 
 Intentos previos de señalar estas contradicciones son ignorados, descartados alegando que quienes
 las plantean se preocupan demasiado por las definiciones o los conceptos (un argumento ridículo a la

@@ -941,14 +941,11 @@ jhānas and are being marketed as such to leverage the association with the Budd
 There is no evidence I could find that any of these systems are teaching the full sequence of jhānas
 or even reaching the threshold of the second one, and no evidence that their creators noticed the
 very obvious contradictions between their definitions and how the absence of vitakka and vicāra
-precludes the possibility that their interpretations of these higher jhānas are correct.
-
-Little experience or evidence is needed for them to map those experiences to the jhānas, and the
-many contradictory definitions and understandings from aural lineages are dismissed as religious
-myths, unrealistic attainments, or later corruption from the original teachings that they have
-somehow uncovered. One example of this pattern is how the mapping of jhānas to the form and formless
-realms and its implications are discarded in favor of treating the jhānas as light states of
-concentration.
+precludes the possibility that their interpretations of these higher jhānas are correct. Little
+experience or evidence is needed for them to map those experiences to the jhānas, and the many
+contradictory definitions and understandings from aural lineages are dismissed as religious myths,
+unrealistic attainments, or later corruption from the original teachings that they have somehow
+uncovered.
 
 Previous attempts to point out these contradictions are either ignored, waved away by claiming that
 those bringing them up care too much about definitions or concepts (a ridiculous argument in light
