@@ -112,13 +112,6 @@ jhāna. Estas diferencias son demasiado matizadas para encajar en un binario sim
   que cambian los agregados del practicante para que coincidan mejor con la experiencia
   extraordinaria de los seres en esos reinos.
 
-En contraste, las interpretaciones modernas de las jhānas que no se basan en un linaje auditivo
-difieren entre sí y de las definiciones tradicionales. Como la meditación había pasado de moda en
-los países Theravada y muchos (si no todos) linajes auditivos meditativos se extinguieron, el
-renacimiento de la meditación en los siglos XIX y XX se hizo sin el beneficio de un linaje auditivo
-vivo, lo que llevó a una amplia variedad de interpretaciones dentro del propio Theravada sobre el
-papel y los umbrales de las jhānas. La situación de los sistemas que intentan divorciarlas jhānas
-de su contexto budista es aún más diversa.
 
 ## Definiendo las Jhānas
 
@@ -136,16 +129,6 @@ comentarios posteriores en las interpretaciones modernistas de las jhānas requi
 verdadero propósito de los comentarios dentro de un linaje auditivo y por qué son más, no menos,
 válidos que las interpretaciones de los sutras que los ignoran en favor de una arqueología textual
 desprovista de un linaje auditivo.
-
-Como señalé en la introducción, el Budismo no es una tradición textual, sino auditiva. Cuando un
-maestro transmite las enseñanzas a un estudiante, transmite no solo las palabras del texto, sino
-significados que a menudo no son proporcionados por las palabras y quedaron implícitos en los
-textos. Desde su comienzo, recibir enseñanzas budistas ha implicado acudir a tal maestro y escuchar
-sus palabras. Cuando la comunidad de monásticos y eruditos creció, comenzaron a escribir y
-sistematizar las enseñanzas de una manera no muy diferente a los intentos modernos. La diferencia,
-sin embargo, es que esos comentarios fueron escritos por personas que tenían el conocimiento del
-linaje auditivo y, por lo tanto, pudieron completar los significados implícitos que no se encuentran
-en los textos.
 
 Las diferencias en las tradiciones auditivas y sus comentarios son diferencias en la visión y los
 objetivos de su vehículo y en cómo el linaje de practicantes interpretó las enseñanzas y expandió su
@@ -600,7 +583,13 @@ a sus necesidades.
 En contraste con cómolas jhānas se definen consistentemente a través de los diferentes vehículos
 budistas, con solo cambios en los umbrales de los factores o redefiniciones que se ajustan a la
 visión del vehículo, las interpretaciones modernistas de las jhānas varían ampliamente de las
-visiones tradicionales y entre sí. Antes de entrar en los detalles, debo señalar que el estilo
+visiones tradicionales y entre sí.
+Si bien estos enfoques eluden las preguntas sobre autoridad y autenticidad al operar abiertamente
+fuera de un linaje auditivo, su inconsistencia delata la falta de una comprensión coherente de las
+jhānas. La ironía de que las enseñanzas que desprecian como "mitología" y "dogma" proporcionen una
+claridad y consistencia inigualables se les escapa por completo.
+
+Antes de entrar en los detalles, debo señalar que el estilo
 polémico de esta sección no es ajeno a la tradición budista, que no teme señalar visiones y
 prácticas erróneas. A pesar de la imagen del budismo como una tradición donde señalar errores es
 poco compasivo, los textos polémicos se encuentran entre los más comunes e importantes. Los primeros
@@ -748,7 +737,7 @@ requiere cambios constantes en el objeto de atención que trabajan activamente e
 unificación de la mente. El mismo Brasington [admite](https://www.leighb.com/jhana2.htm) que no hay
 respaldo para este método en los suttas, justificando su propia invención en el hecho de que los
 suttas no contienen instrucciones detalladas. Ignora completamente que tales instrucciones sí
-existen y se han preservado en linajes auditivos, la tesis central de esta guía.
+existen y se han preservado en linajes auditivos.
 
 Leigh Brasington también expresa opiniones sobre el
 [renacimiento](https://www.leighb.com/notselfrebirth.htm) que contradicen directamente la
@@ -877,23 +866,23 @@ descritos en los suttas porque esas jhānas tienen esas otras cualidades como re
 
 Alguien interesado en convertirse en cliente de Jhourney a pesar de estos problemas debería estar
 listo para gastar al menos $1,500 por un retiro en línea y mucho más por retiros presenciales. Este
-precio, que es mucho más alto que los establecidos por maestros calificados de linajes auditivos
-vivos, se justifica en base a su retórica de intentar "escalar"las jhānas a través de avances
-tecnológicos. Al principio de la historia de la compañía, estaban trabajando en un dispositivo EEG
-que pudiera detectar cuándo un practicante está en una jhāna y proporcionar retroalimentación basada
-en aprendizaje automático. Desde entonces han abandonado ese proyecto, y las entrevistas recientes
-ya no lo mencionan. Su intento más reciente de dar la apariencia de una ventaja tecnológica es crear
-un asistente de IA que pueda guiar a los practicantes a través de las jhānas. Además de lo
-predeciblemente que su evolución sigue las últimas tendencias en Silicon Valley, debería estar claro
-a estas alturas que cualquier interrupción externa, por precisa que sea, volverá a involucrar los
-factores mentales que necesitan estar ausentes en la segunda jhāna y superiores.
+precio, que es mucho más alto que los establecidos por maestros calificados, se justifica en base a
+su retórica de intentar "escalar" las jhānas a través de avances tecnológicos. Al principio de la
+historia de la compañía, estaban trabajando en un dispositivo EEG que pudiera detectar cuándo un
+practicante está en una jhāna y proporcionar retroalimentación basada en aprendizaje automático.
+Desde entonces han abandonado ese proyecto, y las entrevistas recientes ya no lo mencionan. Su
+intento más reciente de dar la apariencia de una ventaja tecnológica es crear un asistente de IA
+que pueda guiar a los practicantes a través de las jhānas. Además de lo predeciblemente que su
+evolución sigue las últimas tendencias en Silicon Valley, debería estar claro a estas alturas que
+cualquier interrupción externa, por precisa que sea, volverá a involucrar los factores mentales que
+necesitan estar ausentes en la segunda jhāna y superiores.
 
-El alto precio no se basa en experiencia real, conexión con un linaje auditivo, curiosidad básica
-sobre la riqueza de la tradición que están apropiando, o una innovación real que permita a los
-practicantes alcanzarlas jhānas auténticas en un período de tiempo mucho más corto. Tal innovación
-al menos haría que toda la empresa fuera interesante a pesar de todos los demás problemas. Animo a
-aquellos interesados en aprenderlas jhānas a evitar Jhourney y en su lugar aprender de maestros
-calificados de un linaje auditivo vivo.
+El alto precio no refleja experiencia genuina, ni curiosidad básica sobre la riqueza de la
+tradición que están apropiando, ni ninguna innovación real que permita a los practicantes alcanzar
+las jhānas auténticas en un período de tiempo mucho más corto. Tal innovación al menos haría que
+toda la empresa fuera interesante a pesar de todos los demás problemas. Animo a aquellos
+interesados en aprender las jhānas a evitar Jhourney y en su lugar aprender de maestros
+calificados.
 
 ### The Mind Illuminated
 

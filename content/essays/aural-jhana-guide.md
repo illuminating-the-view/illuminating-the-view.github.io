@@ -27,8 +27,8 @@ interpretations.
   hearing the instructions from one's teacher, and how traditions that adhere to an aural
   understanding of the jhānas have a remarkably consistent understanding of them.
 - [**Defining the Jhānas**](#defining-the-jhanas): A detailed definition of the jhānas based on the
-  Abhidharmakośa, a text that is widely studied across East Asian and Tibetan Buddhist and that has
-  been transmitted in an unbroken aural lineage.
+  Abhidharmakośa, a text that is widely studied across East Asian and Tibetan Buddhist traditions
+  and that has been transmitted in an unbroken aural lineage.
 - [**Jhānas Across Buddhist Vehicles**](#jhanas-across-buddhist-vehicles): A comparative analysis of
   the definitions of the jhānas across Theravada, Mahayana, and Vajrayana traditions. Special
   attention is given to how they define the first jhāna in a manner consistent with the view and
@@ -107,14 +107,6 @@ across living aural lineages include:
   that change the aggregates of the practitioner to better match the extraordinary experience of
   the beings in those realms.
 
-By contrast, modern interpretations of the jhānas that are not based on an aural lineage differ from
-each other and from traditional definitions. As meditation had become out of fashion in Theravada
-countries and many (if not all) meditative aural lineages died out, the revival of meditation in the
-19th and 20th centuries was done without the benefit of a living aural lineage, leading to a wide
-variety of interpretations within Theravada itself about the role and thresholds of the jhānas. The
-situation of systems that attempt to divorce the jhānas from their Buddhist context is even more
-diverse.
-
 ## Defining the Jhānas
 
 This section will define how the jhānas are defined in a living aural lineage that has no documented
@@ -130,15 +122,6 @@ The prevalence of notions about textual purity and the primacy of earlier texts 
 commentaries in modernist interpretations of the jhānas requires that I clarify the true purpose of
 commentaries within an aural lineage and why they are more, not less, valid than interpretations of
 sutras that ignore them in favor of textual archeology devoid of an aural lineage.
-
-As I pointed out in the introduction, Buddhism is not a textual tradition, but an aural one. When a
-teacher transmits the teachings to a student, they transmit not only the words of the text, but
-meanings that are often not supplied by the words and were left implicit in the texts. From its
-beginning, receiving Buddhist teachings has involved going to such a teacher and listening to their
-words. When the community of monastics and scholars grew, they began to write down and systematize
-the teachings in a way that is not much different from modern attempts. The difference, however, is
-that those commentaries were written by people who had the knowledge of the aural lineage and thus
-were able to fill in the implicit meanings not found in the texts.
 
 Differences in aural traditions and their commentaries are differences in the view and goals of
 their vehicle and in how the lineage of practitioners interpreted the teachings and expanded their
@@ -320,7 +303,7 @@ lineages that should be the basis for comparison had mostly died out or fallen i
 and not in line with the version of Buddhism that was being promoted, so finding information about
 their practice and about any surviving branches is more difficult. First we will have to look at the
 textual sources, taken as a whole without privileging suttas over Abhidhamma and commentaries, and
-then look at the mainstream modern languages that trace their lineages to those revival movements.
+then look at the mainstream modern lineages that trace their origin to those revival movements.
 
 #### Textual sources
 
@@ -573,6 +556,11 @@ vehicles based on renunciation and sense restraint to fit their needs.
 In contrast to how the jhānas are defined consistently across the different Buddhist vehicles, with
 only changes in the thresholds of the factors or re-definitions that fit the view of the vehicle,
 modernist interpretations of the jhānas vary widely from traditional views and from each other.
+While these approaches preempt questions of authority and authenticity by openly operating outside
+an aural lineage, their inconsistency betrays the lack of a coherent understanding of the jhānas.
+The irony that the teachings they disparage as "mythology" and "dogma" provide unmatched clarity and
+consistency is lost on them.
+
 Before diving into the specifics, I should note that the polemical style of this section is not
 foreign to the Buddhist tradition, which is not afraid to call out wrong views and practices.
 Despite the image of Buddhism as a tradition where pointing out errors is uncompassionate, polemical
@@ -713,7 +701,7 @@ lineage and requires constant changes in the object of attention that actively w
 unification of the mind. Brasington himself [admits](https://www.leighb.com/jhana2.htm) that there
 is no support for this method in the suttas, justifying his own invention on the fact that the
 suttas do not contain detailed instructions. He completely ignores that such instructions do exist
-and have been preserved in aural lineages, the central thesis of this guide.
+and have been preserved in aural lineages.
 
 Leigh Brasington also expresses views of [rebirth](https://www.leighb.com/notselfrebirth.htm) that
 directly contradict the traditional understanding of the concept as literally meaning that beings
@@ -834,22 +822,21 @@ jhānas have those other qualities as prerequisites.
 
 Someone interested in becoming a Jhourney customer despite these issues should be ready to spend at
 least $1,500 for an online retreat and much more for in-person retreats. This price, which is much
-higher than those set by qualified teachers from living aural lineages, is justified based on their
-rhetoric of attempting to "scale" the jhānas through technological advances. Early in the company's
-history, they were working on an EEG device that could detect when a practitioner is in a jhāna and
-provide feedback based on machine learning. They have since abandoned that project, and recent
-interviews no longer mention it. Their newest attempt to give the appearance of a technological edge
-is to create an AI assistant that can guide practitioners through the jhānas. Besides how
-predictably their evolution follows the latest trends in Silicon Valley, it should be clear by this
-point that any external interruption, no matter how accurate, will reengage the mental factors that
-need to be absent in the second jhāna and above.
+higher than those set by qualified teachers, is justified based on their rhetoric of attempting to
+"scale" the jhānas through technological advances. Early in the company's history, they were working
+on an EEG device that could detect when a practitioner is in a jhāna and provide feedback based on
+machine learning. They have since abandoned that project, and recent interviews no longer mention
+it. Their newest attempt to give the appearance of a technological edge is to create an AI assistant
+that can guide practitioners through the jhānas. Besides how predictably their evolution follows the
+latest trends in Silicon Valley, it should be clear by this point that any external interruption, no
+matter how accurate, will reengage the mental factors that need to be absent in the second jhāna and
+above.
 
-The high price is not based on actual expertise, connection to an aural lineage, basic curiosity
-about the richness of the tradition they are appropriating, or an actual innovation that allows
-practitioners to reach the authentic jhānas in a much shorter time frame. Such innovation would at
-least make the whole enterprise interesting despite all other issues. I encourage those interested
-in learning the jhānas to avoid Jhourney and instead learn from qualified teachers from a living
-aural lineage.
+The high price reflects no genuine expertise, no basic curiosity about the richness of the tradition
+they are appropriating, and no actual innovation allowing practitioners to reach the authentic
+jhānas in a much shorter time frame. Such innovation would at least make the whole enterprise
+interesting despite all other issues. I encourage those interested in learning the jhānas to avoid
+Jhourney and instead learn from qualified teachers.
 
 ### The Mind Illuminated
 
