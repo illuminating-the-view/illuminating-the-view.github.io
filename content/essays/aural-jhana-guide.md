@@ -6,6 +6,16 @@ A comprehensive guide to understanding and practicing the jhānas through the le
 template = "blog-page.html"
 +++
 
+<br>
+
+*Therefore, Mahamati, let son or daughter of a good family take good heed not to get attached to
+words as being in perfect conformity with meaning, because the truth is not of the letter. Be not
+like the one who looks at the finger-tip.*
+
+— Laṅkāvatāra Sūtra
+
+<br>
+
 Due to the length of this guide, a table of contents with short summaries of each section is
 provided below. A reader interested in learning what jhānas are and how to practice them can read
 the [Introduction](#introduction) and the sections [Defining the Jhānas](#defining-the-jhanas) and

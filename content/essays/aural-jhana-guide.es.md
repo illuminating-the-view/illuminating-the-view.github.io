@@ -1,10 +1,20 @@
 +++
-title = "Una guía del linaje auditivo a las jhānas"
+title = "Una guía al linaje auditivo de las jhānas"
 description = """
 Una guía completa para entender y practicarlas jhānas a través de la lente de los linajes auditivos del Budismo.
 """
 template = "blog-page.html"
 +++
+
+<br>
+
+*Por lo tanto, Mahamati, el hijo o la hija de una buena familia ha de cuidarse de no apegarse a las
+palabras como si estuvieran en perfecta conformidad con el significado, porque la verdad no está
+en la letra. No seas como aquel que mira la punta del dedo.*
+
+— Sutra Laṅkāvatāra
+
+<br>
 
 Debido a la extensión de esta guía, se proporciona a continuación una tabla de contenido con breves
 resúmenes de cada sección. Un lector interesado en aprender qué son las jhānas y cómo practicarlas
