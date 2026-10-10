@@ -9,22 +9,22 @@ template = "blog-page.html"
 To start a discussion on the concept that is commonly translated as "rebirth" or "reincarnation", I
 believe it necessary to start by presenting the original Pali and Sanskrit terms and to offer a new
 translation that is the title of this essay, "rebecoming". The original Sanskrit term is
-*punarbhava* and its Pali equivalent is *punabbhava*. Both of these terms are made up of two roots,
-*punar* which means "again" and *bhava* which means "becoming" or "existence". Therefore, a literal
+_punarbhava_ and its Pali equivalent is _punabbhava_. Both of these terms are made up of two roots,
+_punar_ which means "again" and _bhava_ which means "becoming" or "existence". Therefore, a literal
 translation of these terms would be "becoming again", hence my choice of "rebecoming".
 
 The term is commonly translated as "rebirth" and less commonly as "reincarnation". The first term is
 advanced by those who think the existing term reincarnation too closely associates the Buddhist
-concept of *punarbhava* with the idea of a permanent soul or self that transmigrates from one life
+concept of _punarbhava_ with the idea of a permanent soul or self that transmigrates from one life
 to the next. Such connotations exist because of the belief that a permanent soul or self is
 necessary for any process that involves a continuity of existence across multiple lives. Dependent
 origination, the central teaching of Buddhism, explains in detail how such continuity can exist
 without a permanent soul or self. The original term must have been deliberately chosen to avoid such
 connotations because the term used in Hinduism for this process, one involving a permanent self, is
-*punarjanma*, which literally means "born again". This essay will use the term "rebecoming" when
-referring to the Buddhist concept of *punarbhava* from now on. The translation "rebirth" cannot then
+_punarjanma_, which literally means "born again". This essay will use the term "rebecoming" when
+referring to the Buddhist concept of _punarbhava_ from now on. The translation "rebirth" cannot then
 remove the connotations of "reincarnation" it was meant to avoid. The term "rebirth" will be used
-when explicitly referring to the birth of a new being in a new body to avoid awkward sentences.  
+when explicitly referring to the birth of a new being in a new body to avoid awkward sentences.
 
 The doctrine of rebecoming is central to understanding Buddhism and without it, its goal of putting
 an end to the beginningless cycle of rebecoming becomes outright incoherent. For most of Buddhist
@@ -109,7 +109,7 @@ billions of years absorbed in deep and refined states of meditation. Such sublim
 about from spending a long time meditating on very similar states of concentration because rebirth
 as a human or an animal is simply incongruent as a fruit of such actions.
 
-### The Buddha did not teach rebecoming because he was scientific and rational 
+### The Buddha did not teach rebecoming because he was scientific and rational
 
 A central pillar of Buddhist modernism is the idea of the Buddha as a scientific and rational
 explorer of the mind. The history of this idea is beyond the scope of this essay, but it reflects
@@ -180,14 +180,14 @@ After years of failed search, he sat under the Bodhi tree, resolved to stay ther
 solution, and attained enlightenment. It was during this night that he unraveled the net of causes
 and conditions and saw how he had lived innumerable previous lives, each the result of his previous
 actions. Far from being a comforting thought, he understood that all beings are trapped in a cycle
-of rebecoming. As he continued the unraveling, he saw how the cycle is fueled by *dukkha*, the
-clinging to the aggregates that make up a sentient being, and the term that is commonly translated
-as "suffering". Through further unraveling, he realized the root cause of *dukkha* to be the
-ignorance that these aggregates are impermanent, unsatisfactory, and lack any permanent self one can
-cling to. Ignorance creates a deluded habit of creating a self where there is none that leads to
-clinging to the aggregates and to the cycle of rebecoming. Therefore, claiming that rebecoming is an
-optional part on the path to ending suffering misunderstands the very nature of the suffering the
-path is meant to end.
+of rebecoming. As he continued the unraveling, he saw how the cycle perpetuates _dukkha_, the
+unsatisfactoriness of the five aggregates subject to clinging, commonly translated as "suffering".
+Through further unraveling, he realized the root cause of _dukkha_ to be the ignorance that these
+aggregates are impermanent, unsatisfactory, and lack any permanent self one can cling to. Ignorance
+creates a deluded habit of creating a self where there is none that leads to clinging to the
+aggregates and to the cycle of rebecoming. Therefore, claiming that rebecoming is an optional part
+on the path to ending suffering misunderstands the very nature of the suffering the path is meant to
+end.
 
 Usually paired with that claim is the idea that rebecoming is irrelevant because it has no practical
 implications and one can sidestep the question by merely practicing. This view of practice as an
@@ -216,7 +216,7 @@ A common question beginners have is how an afterlife can be possible if the Budd
 absence of a self. The question is so common that one can find people asking it every day in online
 forums. That beginners have this question is not surprising, but that some people claiming to be
 teachers of Buddhism fall under the same misconception is quite concerning. As was mentioned in the
-introduction, the word *punarbhava* deliberately avoids the connotations of a permanent self.
+introduction, the word _punarbhava_ deliberately avoids the connotations of a permanent self.
 
 Buddhism is often called the "middle way" because it positions itself as a path that avoids the
 extremes of eternalism and nihilism. In this context, eternalism is the belief in a permanent soul
@@ -260,7 +260,7 @@ things as they are, the result of cultivating the noble path. By defining two ty
 the Buddha provides the concession that modernist, secular, and "pragmatic" movements believe is
 missing from traditional Buddhism by acknowledging that the ultimate view is hard to grasp and
 giving his followers something to lean on while they work on the other parts of the noble path. One
-can adopt mundane right view out of faith or as a wager much like he suggested to the Kālāmas. 
+can adopt mundane right view out of faith or as a wager much like he suggested to the Kālāmas.
 
 The Buddha acknowledges from the start that mundane right view is not enough by calling it "right
 view that is accompanied by defilements, partakes of good deeds, and ripens in attachments". Such
@@ -289,7 +289,7 @@ the story, it is summarized as
 >
 > And also that which puts a stop to these causes,
 >
-> This too has been taught by the Great Śramaṇa. 
+> This too has been taught by the Great Śramaṇa.
 
 This section elaborates on the teaching of dependent origination using a sutra from the Tibetan
 Canon, the [Rice Seedling Sutra](https://84000.co/translation/toh210). Using a Mahayana sutra serves
@@ -338,7 +338,7 @@ Maitreya defines dependent origination as:
 > “Why is it called dependent arising? It is called dependent arising because it is causal and
 > conditional, not non-causal and non-conditional. In this connection, the Bhagavān concisely taught
 > the characteristics of dependent arising as follows: ‘Results come from their own specific
-> conditions. 
+> conditions.
 
 He continues to categorize dependent arising in terms of causes, conditions, and an inner and outer
 aspects. Rather than quote the entire section, I will focus on the definition of the outer aspect,
@@ -357,7 +357,7 @@ clearly explained:
 > “How is it not discontinuous? It is not discontinuous because a sprout is not born from a seed
 > that has already ceased, nor from a seed that has not yet ceased. Rather, like the beam of a scale
 > tilting from up to down, a sprout is born precisely when the seed has ceased.
-> 
+>
 > “How does it not involve transmigration? It does not involve transmigration because the sprout and
 > the seed are different; that which is the sprout is not the seed.
 >
@@ -393,12 +393,12 @@ first and last links. The first link, ignorance, is explained as:
 By imputing a permanent self to a set of aggregates where there are none, ignorance sets in motion
 the entire chain that ends with:
 
->  The emergence of the aggregates from such a cause is birth. The maturation of the aggregates
->  after birth is aging. The perishing of the decrepit aggregates is death. The inner torment of the
->  deluded, attached, dying person is sorrow. The utterance that comes from sorrow is lamentation.
->  The experience of discomfort associated with the collection of the five consciousnesses is
->  suffering. The mental suffering accompanied by attention is despair. Moreover, any other subtle
->  defilements of this kind are called anxiety.
+> The emergence of the aggregates from such a cause is birth. The maturation of the aggregates
+> after birth is aging. The perishing of the decrepit aggregates is death. The inner torment of the
+> deluded, attached, dying person is sorrow. The utterance that comes from sorrow is lamentation.
+> The experience of discomfort associated with the collection of the five consciousnesses is
+> suffering. The mental suffering accompanied by attention is despair. Moreover, any other subtle
+> defilements of this kind are called anxiety.
 
 In case anyone thinks this causal chain is only limited to one life, Maitreya clarifies that:
 
@@ -425,13 +425,13 @@ rebecoming by taking a new set of aggregates. Maitreya summarizes it better than
 > causes and conditions, the seed of consciousness born of karma and afflictions will nonetheless
 > produce the sprout of name and form within whichever mother’s womb one will take rebirth through.
 
-## Verifying Rebecoming 
+## Verifying Rebecoming
 
 Since the Buddha taught that rebecoming is a verifiable process, the last section of this essay
 covers the valid sources of knowledge recognized by Buddhist epistemology that can be used to verify
 it for oneself. Epistemology studies the nature of knowledge and how it can be acquired. There is
 some variation within the tradition on which sources of knowledge are valid, but this section will
-cover the most commonly accepted ones, from weakest to strongest. 
+cover the most commonly accepted ones, from weakest to strongest.
 
 ### Testimony of Reliable Sources
 
@@ -446,7 +446,7 @@ temporarily suspending their disbelief, accepting mundane right view as a wager,
 practice the next steps of the path. If their progress leads them to declare that the parts of the
 path they can verify for themselves are skillful and lead to welfare and happiness, it will be
 natural to infer that the parts they cannot yet verify for themselves, such as rebecoming, also
-possess the same qualities. 
+possess the same qualities.
 
 ### Inference
 
@@ -479,7 +479,7 @@ The rest of his arguments are rebuttals to objections that arise from observing 
 relationship between the mind and the body, and taking it as evidence that the mind is a product of
 the body. Given that Dharmakīrti's argument, as well as all of Buddhism, relies on rejecting that
 the mind has a material cause, the Buddhist position on the relationship between mind and body
-should be examined in more detail. 
+should be examined in more detail.
 
 Buddhism asserts that sentient beings are made up of five dependently arisen aggregates: form,
 feeling, perception, mental formations, and consciousness. Only the first one is physical, while the
@@ -501,7 +501,7 @@ correlations between mind and body but remains so unable to explain causation th
 been named the "hard problem of consciousness". The problem is not so hard for those ready to accept
 that fundamentally different things are indeed different. Those who advance a position in which our
 subjective, cognizant, and luminous experience arises out of something that possesses none of those
-qualities must be the ones shouldering the burden of proof. 
+qualities must be the ones shouldering the burden of proof.
 
 Dharmakīrti's argument is not meant to be a proof of rebecoming on its own, but a proof that a
 continuity of consciousness beyond birth and death is not only possible, but much more plausible
