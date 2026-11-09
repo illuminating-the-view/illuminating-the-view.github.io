@@ -359,12 +359,12 @@ coercive mechanism but the consequence of one's actions. Finding the Buddha requ
 extraordinary reserve of merit, and receiving a valid Vajrayana empowerment requires even more.
 Permanently breaking the connection to the result, choosing to leave it broken despite having the
 means to repair it, and squandering all the accumulated merit simply mean that such a practitioner
-will not be able to hear the Dharma for a long time. The concept of Vajra Hell is no different from
-the explanation that the devas of the highest realms often fall to the lowest realms after their
-death, having squandered their vast merit in states of exquisite meditative absorption. It is
-a pity if this doctrine was inappropriately used as a coercive mechanism during his training, but
-his misunderstandings of the path and his unwillingness to view it from any other lens than his own
-makes it difficult to fully believe in his account.
+will spend time in lower realms without hearing the Dharma for a long time. The concept of Vajra
+Hell is no different from the explanation that the devas of the highest realms often fall to the
+lowest realms after their death, having squandered their vast merit in states of exquisite
+meditative absorption. It is a pity if this doctrine was inappropriately used as a coercive
+mechanism during his training, but his misunderstandings of the path and his unwillingness to view
+it from any other lens than his own makes it difficult to fully believe in his account.
 
 Batchelor's cure for cases of abuse is, unsurprisingly, to do away with anything that smells of
 feudalism. He also recommends following Yongey Mingyur Rinpoche's advice:
