@@ -151,8 +151,8 @@ In other words, the beginner Buddhist is asked to take the notion that life cont
 that such continuation depends on past actions, and that the destinations can include extremes of
 pleasure and suffering as a working hypothesis. The third element is a reference to spontaneous
 birth, which is a characteristic of beings born in the hellish and heavenly realms. Without at least
-taking these ideas as a possibility, there cannot be a path to realizing them through a direct
-experience.
+taking these ideas as a working hypothesis, there cannot be a path to realizing them through a
+direct experience.
 
 Secular movements have touched other religions like Christianity, arguing that Christ is merely a
 human teacher who focused on spreading his gospel of love and kindness. Applied to Christianity,
