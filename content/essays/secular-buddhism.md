@@ -1,5 +1,5 @@
 +++
-title = "Secular Buddhism: A Modern Counterfeit of the Dharma"
+title = "Secular Buddhism: A Modern Counterfeit Dharma"
 description = """
 An examination of the Secular Buddhism movement
 """
