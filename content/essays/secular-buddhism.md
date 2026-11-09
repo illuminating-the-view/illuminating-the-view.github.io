@@ -36,9 +36,10 @@ The table of contents below provides an easier way to navigate through this essa
 - [**Debunking Secular Buddhism**](#debunking-secular-buddhism): The result of redefining or
   removing rebirth, karma, nibbāna, and the four truths is an incoherent and ineffectual set of
   teachings.
-- [**A Teacher is the Whole of the Spiritual Life**](#a-teacher-is-the-whole-of-the-spiritual-life):
-  The rejection of the importance of the teacher stands in stark contrast to the traditional views on
-  empowerment, samaya, and the need for a teacher.
+- [**The Teacher is the Whole of the Spiritual
+  Life**](#the-teacher-is-the-whole-of-the-spiritual-life): The rejection of the importance of the
+  teacher stands in stark contrast to the traditional views on empowerment, samaya, and the need for a
+  teacher.
 - [**Is Secular Buddhism Needed?**](#is-secular-buddhism-needed): The claim that Secular Buddhism is
   a necessary bridge is examined and compared against the mechanisms traditional Buddhism already
   provides for beginners.
@@ -246,7 +247,7 @@ cures, the cycle of rebirth driven by karma, the secular Buddhist's own disinter
 proof that the problem is not an important part of the path that solves it while at the same time
 they insist their homemade remedy is of the same quality as traditional ones.
 
-## A Teacher is the Whole of the Spiritual Life
+## The Teacher is the Whole of the Spiritual Life
 
 All of these distortions have a source in the distrust of teachers, a topic so important that it
 deserves its own section. Batchelor provides another example of how this distrust manifests in his
