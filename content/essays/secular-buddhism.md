@@ -1,21 +1,49 @@
 +++
-title = "Secular Buddhism: Neither Buddhism nor a Tradition"
+title = "Secular Buddhism: A Modern Counterfeit of the Dharma"
 description = """
 An examination of the Secular Buddhism movement
 """
 template = "blog-page.html"
 +++
 
+<br>
+
+_Just as, Kassapa, gold does not disappear so long as counterfeit gold has not arisen in the world,
+but when counterfeit gold arises then true gold disappears, so the true Dhamma does not disappear so
+long as a counterfeit of the true Dhamma has not arisen in the world, but when a counterfeit of the
+true Dhamma arises in the world, then the true Dhamma disappears._
+
+— [SN 16.13, The Counterfeit Dhamma](https://suttacentral.net/sn16.13/en/bodhi)
+
+<br>
+
 Secular Buddhism, as defined by the Secular Buddhist Network, is a modern conception of Buddhism
-that "lets go of traditional beliefs in rebirth, transcendental truths and rites and rituals". On
-a different page from the same network, we can read that they consider themselves to be a tradition
+that "lets go of traditional beliefs in rebirth, transcendental truths and rites and rituals". On a
+different page from the same network, we can read that they consider themselves to be a tradition
 with similar standing to existing ones: "We do not pretend that ours is the definitive version of
 Buddhism, but we do regard it as having its foundation in Gotama's original teachings". The movement
 has been successful at giving the impression that its modifications are legitimate, desirable, and
 more fit for the modern world than existing traditions. This essay aims to explain why their
-stripped-away version cannot be called Buddhism, why the movement can barely be called a tradition,
-and what its followers risk losing when they prematurely reject the very existential problem the
-Buddha set out to answer.
+why the movement cannot be called a tradition, why their stripped-away version is not Buddhism, what
+its followers lose when they prematurely reject the very existential problem the Buddha set out to
+answer, and why those seeking the real Dharma should avoid it.
+
+The table of contents below provides an easier way to navigate through this essay.
+
+- [**Tradition and Transmission**](#tradition-and-transmission): Secular Buddhism attempts to borrow
+  the authority of traditional lineages while lacking all the requirements to transmit a Dharma of
+  its own.
+- [**Debunking Secular Buddhism**](#debunking-secular-buddhism): The result of redefining or
+  removing rebirth, karma, nibbāna, and the four truths is an incoherent and ineffectual set of
+  teachings.
+- [**A Teacher is the Whole of the Spiritual Life**](#a-teacher-is-the-whole-of-the-spiritual-life):
+  The rejection of the importance of the teacher stands in stark contrast to the traditional views on
+  empowerment, samaya, and the need for a teacher.
+- [**Is Secular Buddhism Needed?**](#is-secular-buddhism-needed): The claim that Secular Buddhism is
+  a necessary bridge is examined and compared against the mechanisms traditional Buddhism already
+  provides for beginners.
+- [**Conclusion**](#conclusion): The Buddha's words present the final verdict on the Secular
+  Buddhism movement.
 
 ## Tradition and Transmission
 
@@ -37,10 +65,10 @@ preserved the transmission.
 Secular Buddhism attempts to draw its legitimacy from what they call the original teachings of the
 Buddha. This can be seen most clearly in the writings of Stephen Batchelor, one of the founding
 figures of the movement. His books track his progression from an agnostic about rebirth and karma to
-what he calls a "Buddhist atheist": one who believes that Gotama taught a naturalistic
-philosophy that rejected karma and rebirth as literal truths, treated awakening as a mundane
-understanding of conditionality, and turned the path from propositions that required faith and
-supramundane insight into mundane tasks that required no faith.
+what he calls a "Buddhist atheist": one who believes that Gotama taught a naturalistic philosophy
+that rejected karma and rebirth as literal truths, treated awakening as a mundane understanding of
+conditionality, and turned the path from propositions that required faith and supramundane insight
+into mundane tasks that required no faith.
 
 [Others](https://fpmt.org/mandala/archives/mandala-issues-for-2010/october/distorted-visions-of-buddhism-agnostic-and-atheist/)
 have pointed out how closely the progression from an agnostic Buddha to an atheist one resembles
@@ -66,11 +94,11 @@ The above assumes an internal Buddhist framework to determine the core of what t
 However, text-critical analysis of the Buddhist canon is a secular method for understanding how
 Buddhist ideas developed from their initial spread. Here, the scholarship delivers a resounding
 defeat for Secular Buddhism. Scholarly consensus has found that several canons, separated by
-language and distance, present a Buddha who from the beginning taught literal rebirth and karma,
-had supramundane abilities, and constantly claimed to have found a transcendental truth about the
-nature of sentient beings. The Gandhāran manuscripts, the oldest ever found, contain texts that
-confirm all of the above and proto-Mahayana texts that vastly expand the scope of the path into even
-more "supernatural" territory.
+language and distance, present a Buddha who from the beginning taught literal rebirth and karma, had
+supramundane abilities, and constantly claimed to have found a transcendental truth about the nature
+of sentient beings. The Gandhāran manuscripts, the oldest ever found, contain texts that confirm all
+of the above and proto-Mahayana texts that vastly expand the scope of the path into even more
+"supernatural" territory.
 
 Secular Buddhism fails to meet all other hallmarks of a tradition as a consequence of the lack of
 transmission of its own. It also must borrow its practices from other traditions with the same
@@ -137,31 +165,30 @@ cyclic birth and death as some of its links.
 
 The end of suffering must also become nothing more than a psychological state characterized by the
 absence of stress, unsatisfactoriness, and anguish. Nirvana, however, is defined not as a
-conditioned mental state but as a transcendent and unconditioned and unborn one in [Ud
-8.3](https://suttacentral.net/ud8.3/en/anandajoti):
+conditioned mental state but as a transcendent and unconditioned and unborn one in
+[Ud 8.3](https://suttacentral.net/ud8.3/en/anandajoti):
 
-> “There is, monks, an unborn, unbecome, unmade, unconditioned. If, monks there were not that
-> unborn, unbecome, unmade, unconditioned, you could not know an escape here from the born, become,
-> made, and conditioned. But because there is an unborn, unbecome, unmade, unconditioned, therefore
-> you do know an escape from the born, become, made, and conditioned.”
+> There is, monks, an unborn, unbecome, unmade, unconditioned. If, monks there were not that unborn,
+> unbecome, unmade, unconditioned, you could not know an escape here from the born, become, made,
+> and conditioned. But because there is an unborn, unbecome, unmade, unconditioned, therefore you do
+> know an escape from the born, become, made, and conditioned.
 
 In [AN 3.47](https://suttacentral.net/an3.47/en/sujato) he defines the characteristics of
 conditioned and unconditioned phenomena.
 
-> “Mendicants, the conditioned has these three characteristics. What three? Arising is evident,
+> Mendicants, the conditioned has these three characteristics. What three? Arising is evident,
 > vanishing is evident, and change while persisting is evident. These are the three characteristics
-> of the conditioned.”
+> of the conditioned.
 >
-> “The unconditioned has these three characteristics. What three? No arising is evident, no
-> vanishing is evident, and no change while persisting is evident. These are the three
-> characteristics of the unconditioned.”
+> The unconditioned has these three characteristics. What three? No arising is evident, no vanishing
+> is evident, and no change while persisting is evident. These are the three characteristics of the
+> unconditioned.
 
 It is clear from these passages that Nirvana is more than the absence of psychological stress or any
 other mental phenomena. They also hint at literal rebirth since Nirvana must be present as an
 obscured potential in all beings, or else it would have to come about through a cause. As such, it
 must survive the breakup of the body, or else that obscured potential would vanish with the body.
-This argument from the Pali canon is what the Mahayana teachings of Buddha-nature explicitly
-argue.
+This argument from the Pali canon is what the Mahayana teachings of Buddha-nature explicitly argue.
 
 Since both the problem and the solution are turned into psychological versions, so must the path.
 The clearest example is how Batchelor argues in "Buddhism Without Beliefs" that the four noble
@@ -174,10 +201,10 @@ ability to hold the view until we too do not deviate from it.
 
 Another problem with this argument is that it ignores the many beliefs that Secular Buddhists bring
 to their own practice. Whereas the beliefs of the Buddha are treated as cultural baggage, those of
-modern secular Buddhists are treated as default facts about the world. Chief among them is the belief
-that consciousness is created by the brain, one they defend with great intensity as a scientific
-truth but for which science has no evidence. Not being able to let go of it while they test the
-teachings, they cannot even meet the threshold for mundane right view.
+modern secular Buddhists are treated as default facts about the world. Chief among them is the
+belief that consciousness is created by the brain, one they defend with great intensity as a
+scientific truth but for which science has no evidence. Not being able to let go of it while they
+test the teachings, they cannot even meet the threshold for mundane right view.
 
 This chief belief is the source of the others. Supramundane perceptions of karma and rebirth are
 impossible because the mind ends at death. Therefore, all their mentions are metaphors or cultural
@@ -191,18 +218,18 @@ others. Ultimately, this leads to the belief that modern authors with no Dharma 
 minimal or incomplete training can create a movement that stands side by side with existing
 traditions.
 
-When the problem, the result, and the path are secularized, so are the fruits of the practice.
-The training undertaken to directly perceive past lives is a tool to calm the mind. The training on
+When the problem, the result, and the path are secularized, so are the fruits of the practice. The
+training undertaken to directly perceive past lives is a tool to calm the mind. The training on
 insight undertaken to thoroughly understand dependent origination becomes mundane insight about
-conditionality and stress. The failure to have any transcendent result is not proof
-that the practitioner has failed to apply the instructions, but that the results are impossible and
-that the traditions who claim them need to be viewed with suspicion.
+conditionality and stress. The failure to have any transcendent result is not proof that the
+practitioner has failed to apply the instructions, but that the results are impossible and that the
+traditions who claim them need to be viewed with suspicion.
 
 Once again, Batchelor provides the perfect example. Describing his training in "Confession of a
 Buddhist Atheist", he confesses that he did not follow the teacher's training ("My 'Zen,' I confess,
 was a rather mixed bag. It was grounded on mindfulness of the breath and body, a practice that Kusan
-Sunim dismissed as no more meaningful than watching a corpse exhale"), did not give his teachers
-the benefit of the doubt ("Despite the constant emphasis on questioning and doubt, I was again being
+Sunim dismissed as no more meaningful than watching a corpse exhale"), did not give his teachers the
+benefit of the doubt ("Despite the constant emphasis on questioning and doubt, I was again being
 primed to arrive at an insight that would confirm the foregone conclusions of an orthodoxy"), and
 unsurprisingly failed to gain any lasting result ("Nor, in the course of seven three-month retreats,
 did I have any of the shattering insights or breakthroughs for which Zen is renowned"). These
@@ -219,6 +246,307 @@ cures, the cycle of rebirth driven by karma, the secular Buddhist's own disinter
 proof that the problem is not an important part of the path that solves it while at the same time
 they insist their homemade remedy is of the same quality as traditional ones.
 
+## A Teacher is the Whole of the Spiritual Life
+
+All of these distortions have a source in the distrust of teachers, a topic so important that it
+deserves its own section. Batchelor provides another example of how this distrust manifests in his
+article ["Why I Quit Guru Yoga"](https://tricycle.org/magazine/quit-guru-yoga/) where he retells in
+further detail his training in Tibetan Buddhism and Korean Son (Zen) and why he finds Guru Yoga and
+any kind of reverence towards teachers problematic. His diagnosis of the practice is made quite
+clear: his "resistance to this practice stemmed from an upbringing in a secular, democratic culture
+that privileged independence of mind, reason, and personal responsibility". Once again, the
+unexamined superiority of his values and culture trumps any attempt to understand the path on its
+own terms. Instead, Tibetan Buddhism and Vajrayana at large are outdated and feudal, which reveals
+his profound ignorance of Vajrayana.
+
+The charge of ignorance is a major one, but before delving into the mechanics of Vajrayana, let's
+summarize the current evidence. It's been shown already that he ignored the instructions of his Son
+teacher in favor of his own methods and how, after giving up vows in both Tibetan Buddhism and Son,
+his method of analyzing the teachings continues in an errant direction burdened by the assumptions
+of modernity he never dares question. In this article and his book, he presents the same training as
+a source of legitimacy for his critiques, confident that his Western audience has been conditioned
+to treat broken monastic vows as a qualification. We can see that his failures as a student are not
+limited to a tradition or teacher nor to his own non-traditional readings.
+
+He complains that he was pressured into taking a Vajrayana empowerment at the age of 21 without
+being given time to investigate the qualities of the guru. While this and the failure of the guru to
+investigate Batchelor's qualities are indeed unfortunate, his gurus cannot be faulted for believing
+that a person who flew all the way to India and showed "youthful enthusiasm" could have become a
+suitable vessel for the teachings. That, however, would have required him to practice with a proper
+view not thoroughly influenced by the Western ideas he has refused to give up, even temporarily. We
+likewise cannot fault Tibetan teachers for openly giving transmission to eager Westerners during the
+earliest period of transmission outside Tibet and expect it to happen without hiccups or cultural
+barriers.
+
+Articles such as these are convincing to people concerned about the potential for abuse of such
+relationships and who are, like Batchelor, completely unaware of the mechanics of Vajrayana. While
+the abuse of some teachers is real and troublesome, giving up guru devotion is not the modern and
+enlightened solution that would revitalize the tradition, but one that would kill it. At best, this
+guru-less vehicle would be a version of common Mahayana with fancy and useless rituals and at worst
+it would lead its followers to be deceived and led off the path. The reason requires a thorough
+explanation of the bodhisattva path, as explained in sutras like the Avataṃsaka and Laṅkāvatāra. For
+indeed, empowerment is not an invention of Tibetan feudal lords, but one of the last steps on the
+eons-long path of the bodhisattva.
+
+On the tenth stage of their journey, the triumphant bodhisattva actualizes a concentration called
+"conferring the empowerment" and a great lotus of jewels appears. The bodhisattva sits upon it and
+an earthquake shakes the universes, which become the assembly. Countless other bodhisattvas appear
+seated on surrounding lotuses, gazing at him in reverence, and buddhas from all ten directions
+converge. Then the empowerment is transmitted via light rays that issue from the foreheads of the
+assembled Tathāgatas and rest on the bodhisattva's head. These light rays purify the subtlest
+obscurations, confer omniscient wisdom, and consecrate the bodhisattva as a fully enlightened
+Buddha.
+
+Vajrayana is a subsection of Mahayana that originated as an Indian Buddhist subculture around the
+7th century. Many of its members were of low standing and uninterested in maintaining or upholding
+the social relations of their day. Vajrayana contains an extraordinary method that makes this
+empowerment available at the very beginning of the path. By doing so, the empowerment creates a
+dependently originated connection to both the cause (the accumulation of merit and wisdom) and the
+result (Buddhahood). The common Mahayana vehicles only have a connection to the cause and take three
+incalculable aeons to complete as a result. Vajrayana, in contrast, can be completed in as little as
+a single lifetime through nurturing the connection to the result established in the empowerment. For
+the best of the best practitioners, empowerment and enlightenment are simultaneous but those are as
+rare as stars in the daylight. The rest has to settle by practicing what was introduced during the
+empowerment and giving themselves empowerment over and over until it ripens in their minds.
+
+Only a qualified teacher can confer a valid empowerment, which is the reason the guru is essential
+in Vajrayana. Guru yoga, its main practice, is a re-enactment of the empowerment that requires
+imagining the guru as a Buddha conferring empowerment, the student as the Buddha being consecrated,
+sentient beings as the retinue of bodhisattvas coming to witness the empowerment, and the
+environment as its stage. The purpose of such re-enactment is to further the student's connection to
+what was introduced during the initial empowerment and to the result. Without such connection, the
+teachings cannot be more efficacious than those of common Mahayana.
+
+Batchelor believes that placing guru yoga at the root of the Vajrayana path is a mistake. The above
+makes it clear why there cannot be a connection to the result without a deep connection to the
+teacher that is its conduit. Maintaining this connection is the basis of samayas, the pledges that
+are associated with empowerment. Batchelor takes issue with this, misinterpreting it to be a blanket
+permission for asking anything of the disciple. Tsongkhapa in his _Lamrim Chenmo_ makes it clear
+that a qualified guru would not be asking the disciple to do something immoral for their own
+self-interest in the first place.
+
+> It is said that those who have not disciplined themselves have no basis for disciplining others.
+> Therefore, gurus who intend to discipline others' minds must first have disciplined their own.
+
+If a guru demands something of that kind, Tsongkhapa gives the following advice:
+
+> Question: We must practice in accordance with the gurus' words. Then what if we rely on the gurus
+> and they lead us to an incorrect path or employ us in activities that are contrary to the three
+> vows? Should we do what they say?
+>
+> Reply: With respect to this, Gunaprabha's Sutra on the Discipline states, 'If the abbot instructs
+> you to do what is not in accord with the teachings, refuse.' Also, the Cloud of Jewels Sutra says,
+> 'With respect to virtue act in accord with the gurus' words, but do not act in accord with the
+> gurus' words with respect to nonvirtue.' Therefore, you must not listen to nonvirtuous
+> instructions.
+
+Another target of Batchelor is the doctrine of Vajra Hell, the idea that someone who breaks their
+samayas will end up in the lower levels of hell, which he reads as nothing but a coercive mechanism
+to enforce fealty to the guru. He takes special issue with the first root downfall, which is to
+never criticize the guru. Given all his misunderstandings, this reading is to be expected. He
+interprets this doctrine literally, a first for him, while ignoring that the tradition already
+expects students to fail in keeping their vision of the guru as a Buddha. When they do, they are
+expected to use one of the many methods available for easily repairing those samayas. Vajra Hell is
+not a destination for the average student, but for those who fail their samayas and refuse to take
+the necessary actions to repair them. As a point of comparison, a monk who breaks one of the four
+major vows (sexual intercourse, stealing, killing, and lying) must be expelled from the community
+for life without any possible recourse. Compared to these standards, Vajrayana practitioners have a
+much easier time fulfilling their commitments.
+
+Having shown the mechanics of empowerment and guru yoga earlier, we can now see how the mechanics of
+Vajra Hell follow. Like all other karma, the karma of being reborn there is not a punishment or a
+coercive mechanism but the consequence of one's actions. Finding the Buddha requires an
+extraordinary reserve of merit, and receiving a valid Vajrayana empowerment requires even more.
+Permanently breaking the connection to the result, choosing to leave it broken despite having the
+means to repair it, and squandering all the accumulated merit simply mean that such a practitioner
+will not be able to hear the Dharma for a long time. The concept of Vajra Hell is no different from
+the explanation that the devas of the highest realms often fall to the lowest realms after their
+death, having squandered their vast merit in states of exquisite meditative absorption. It is
+a pity if this doctrine was inappropriately used as a coercive mechanism during his training, but
+his misunderstandings of the path and his unwillingness to view it from any other lens than his own
+makes it difficult to fully believe in his account.
+
+Batchelor's cure for cases of abuse is, unsurprisingly, to do away with anything that smells of
+feudalism. He also recommends following Yongey Mingyur Rinpoche's advice:
+
+> He explains that the only reason for seeing one’s teacher as a buddha is in order to recognize how
+> the same awakened qualities permeate oneself, other human beings, and the very world in which we
+> live.
+
+As shown above, this advice is not modern but the most traditional reading of guru yoga, and it was
+never Rinpoche's intention to suggest the guru could be done away with. While the institutional
+features of Tibetan society can cause misinterpretations, Vajrayana is independent of Tibetan
+institutional culture; even in old Tibet it survived through the efforts of lay teachers and
+monastics who gave up the eight worldly dharmas. The traditional warnings are much more stringent
+than the feeble suggestions of reform by outsiders.
+
+On the subject of examining the teacher, Sakya Paṇḍita writes in _A Clear Differentiation of the
+Three Codes_:
+
+> Yet when it comes to the quality  
+> of this Noble Religion,  
+> though the quality of their own lives  
+> from here on out depends on it,  
+> people do not make any investigation at all—  
+> as if it were just dog food!  
+> Instead, they cling devotedly to whatever teaching  
+> happens to come their way.  
+> They are seen to examine thoroughly  
+> a guide hired for a single day  
+> or a spouse wed for a single lifetime,  
+> and only then to accept them.  
+> Yet, although all their interests—from now until they have become  
+> fully enlightened—depend on the choice  
+> of an excellent preceptor, they accept  
+> anyone they meet as their master,  
+> without bothering to investigate him,  
+> like goods hastily bought in times of shortage.
+
+On the subject of the qualifications of a guru, the _Self-Arising Vidyā Tantra_ says:
+
+> The master of intimate instructions that possesses the vajra meaning  
+> has a positive attitude, skill in teaching  
+> obtains the empowerments, applies the meaning of secret mantra  
+> understands all the inner and outer activities  
+> is inseparable from the meditation deity  
+> remains undistracted in samadhi  
+> is knowledgeable in the secret tantras of secret mantra  
+> possesses the great meaning of the intimate instructions of the Great Perfection  
+> engages all outer and inner sadhanas  
+> never leaves the meaning of the view  
+> gives up outer, inner, and secret activities  
+> is endowed with qualities like a precious jewel  
+> and enjoys an inexhaustible treasury.
+
+The commitments are not one-sided. Jamgön Kongtrul describes the guru's own samaya toward the
+student:
+
+> Having given someone an initiation, no matter how irritating, stubborn, neurotic or even criminal
+> they may be, the guru must accept that person as his student and look after him or her as if they
+> were his own child.
+
+— Jamgön Kongtrul, _The Teacher-Student Relationship_
+
+The _Self-Arising Vidyā Tantra_ places much more importance on the teacher's samaya by outright
+stating that theirs cannot be repaired.
+
+> If the master breaks samaya, there is no method of purification.  
+> \[...\]  
+> If the disciple breaks samaya, there is method of purification:  
+> recite the vast discourses  
+> and turn the vast wheels of the gaṇacakra.
+
+Many more such passages could be provided, but these are enough to show that while the institutional
+forms may need reform, the traditional warnings are much more strict than those of would-be
+reformers.
+
+In trying to do away with the guru, however, Batchelor goes much further than claiming they are not
+needed for Vajrayana: he claims they are not needed at all. He states that the Buddha replaced the
+guru with the spiritual friend:
+
+> While the concept of the guru was present in the Upanishads that predated the advent of Buddhism,
+> Gotama rejected it in favor of finding a good friend (kalyanamitta), whose role was to help you
+> enter the eightfold path and thereby become independent of others in your practice of the dharma.
+
+Here he engages in silly word games to misinterpret the Pali canon one more time. Anyone whose role
+is to help you enter the eightfold path is a teacher, and "good friend" is merely a standard term
+for one in Theravada and Mahayana scripture. So is the word "guru," whose etymology means someone
+heavy, as in heavy with positive qualities. He then goes on to provide several quotes that he again
+misinterprets or places out of context to suggest that some Buddhist vehicles allow the student to
+do away with the teacher. The opposite is true, and since it has become tiring to address each
+misinterpretation, it is better to end this section with a selection of quotes from varied
+traditions that put the point to rest.
+
+> Sir, good friends, companions, and associates are half the spiritual life.
+>
+> Not so, Ānanda! Not so, Ānanda! Good friends, companions, and associates are the whole of the
+> spiritual life. A mendicant with good friends, companions, and associates can expect to develop
+> and cultivate the noble eightfold path.
+
+— [SN 45.2](https://suttacentral.net/sn45.2/en/sujato)
+
+> Taking into account exterior factors, mendicants, I do not see a single one that is so very
+> helpful as good friendship for a trainee mendicant who hasn't achieved their heart's desire, but
+> lives aspiring to the supreme sanctuary from the yoke. A mendicant who has good friends gives up
+> the unskillful and develops the skillful.
+
+— [Iti 17](https://suttacentral.net/iti17/en/sujato)
+
+> The factors for stream-entry are associating with true persons, listening to the true teaching,
+> rational application of mind, and practicing in line with the teaching.
+
+— [SN 55.5](https://suttacentral.net/sn55.5/en/sujato)
+
+> A disciple ought to approach a teacher who has such a doctrine in order to listen to the teaching.
+> The teacher explains Dhamma with its higher and higher stages, with its better and better stages,
+> with its dark and bright sides.
+
+— [MN 47](https://suttacentral.net/mn47/en/sujato)
+
+> When faith has arisen they approach the teacher. They pay homage, actively listen, hear the
+> teachings, remember the teachings, examine their meaning, and accept them after deliberation. Then
+> enthusiasm springs up; they make an attempt, weigh up, and strive. Striving, they directly realize
+> the ultimate truth, and see it with penetrating wisdom.
+
+— [MN 95](https://suttacentral.net/mn95/en/sujato)
+
+> Just as a group of patients relies on medicine to be cured, one should rely unwaveringly upon a
+> virtuous mentor.
+
+— _Saṃcayagāthā_
+
+> Rely on a virtuous mentor who is disciplined, peaceful, pacified, diligent in the highest
+> qualities, very learned, understands the truth, eloquent, has a loving nature, and has abandoned
+> regret.
+
+— Maitreya, _Sūtrālaṃkāra_
+
+> The virtuous mentor skilled in the meaning of Mahāyāna and possessing the supreme disciplined
+> conduct of a bodhisattva should never be abandoned, even at the cost of one's life.
+
+— Śāntideva, _Bodhicaryāvatāra_
+
+> If you rely on those who are content, compassionate, and disciplined, with discerning wisdom that
+> removes afflictions, through knowing them, give them respect.
+
+— Nāgārjuna, _Ratnāvalī_
+
+> Young Manibhadra, bodhisattvas who correctly adhere to the virtuous mentor do not fall into lower
+> realms; they realize the uniformity of all phenomena.
+
+— _Gaṇḍavyūha Sūtra_
+
+> All the buddhas of the past, present and future, residing in every land in the ten directions,
+> have paid homage to the tantric masters from whom they have received the highest initiations.
+
+— Aśvaghoṣa, _Fifty Verses of Guru Devotion_
+
+> Fire is produced through the meeting of two things: the meeting of a person's hands with a
+> spindle. The fire does not exist in the spindle, nor does it exist in the hands of the person.
+> Fire arises when three things meet: the hand, the spindle, and the fireboard. Similarly, though
+> there is buddhahood in nondual dharmatā, it does not exist in one's vidyā alone, which is
+> insufficient. Likewise, a guru alone is insufficient. Also, one's cultivation is insufficient.
+> When these three things meet, buddhahood is a certainty.
+
+— Vimalamitra, _The Blossoming Lotus_
+
+> Even if vidyā could be found through the imputation and scrutiny of intellectual analysis, it
+> cannot be stabilized by necessary cultivation because it cannot be known whether one has indeed
+> found vidyā or not. Therefore, in the beginning, a pure guru is very important. Afterward, one's
+> own cultivation and familiarity is very important.
+
+— Vimalamitra, _The Blossoming Lotus_
+
+> You, kind Lord, are the ground of all excellence, right devotion to you is the root of the path.
+
+— Tsongkhapa, _The Ground of All Excellence_
+
+> The culmination of the process of generation occurs in the adornment of one's head by a
+> visualization of one's spiritual progenitor. That spiritual progenitor is none other than one's
+> own master. The tantras declare that no realizations will follow if this practice is confused.
+
+— Sakya Paṇḍita, _A Clear Differentiation of the Three Codes_
+
 ## Is Secular Buddhism Needed?
 
 The purpose of this section is to examine the ways in which Secular Buddhism undermines mechanisms
@@ -232,9 +560,9 @@ ignorance and dismissal of traditional modes of training for a fresh and necessa
 subject.
 
 To imply that Buddhist vehicles cannot take beginners onto the path is to ignore the very definition
-of a vehicle, a raft that can take someone to the other shore. No tradition of Buddhism assumes
-that the radical view of reality presented by all Buddhas is something beginners and outsiders are
-ready to accept, not even those growing up in Buddhist cultures. As already explored in the previous
+of a vehicle, a raft that can take someone to the other shore. No tradition of Buddhism assumes that
+the radical view of reality presented by all Buddhas is something beginners and outsiders are ready
+to accept, not even those growing up in Buddhist cultures. As already explored in the previous
 section, mundane right view is made available to those who are open to testing out the teachings for
 themselves. To claim traditional Buddhism is not pragmatic is to ignore that the other components of
 the path are also tailored to beginners, who are given plenty of activities to choose from:
@@ -265,13 +593,13 @@ Buddhists and without making a claim to the name Buddhism. And if meditation is 
 well-being, what about saunas, weightlifting, and cold showers, all techniques with ample scientific
 support?
 
-Even if Secular Buddhists conceded the previous points, there would still be a defense available,
-in the form of claiming that Secular Buddhism does more good than harm by connecting people to
+Even if Secular Buddhists conceded the previous points, there would still be a defense available, in
+the form of claiming that Secular Buddhism does more good than harm by connecting people to
 Buddhism. It is certainly true, as traditional lineages assert, that to even hear the name Buddha is
 the result of a great accumulation of merit, but they also warn against the dangers of wasting those
-chances and against counterfeit versions of the Dharma that lead away from lasting liberation. Absent
-any data on Secular Buddhists and their practice histories, we must use the movement's own words and
-features to score them on these criteria.
+chances and against counterfeit versions of the Dharma that lead away from lasting liberation.
+Absent any data on Secular Buddhists and their practice histories, we must use the movement's own
+words and features to score them on these criteria.
 
 We know already that it demotes liberation to a mental state, that it dismisses the problem Buddhism
 seeks to answer as primitive superstition, and that it views itself as a valid source of teachings
@@ -298,4 +626,35 @@ preemptively marked as "supernatural".
 
 For those seeking to understand the full depth of the existential problem the Buddha set to solve,
 it is best to drop any connections to this counterfeit Dharma, accept the possibility that the
-Buddha's diagnosis is correct, and test his medicine on his own terms.
+Buddha's diagnosis is correct, and test his medicine on his own terms. Claiming outright that
+Secular Buddhism is a counterfeit will certainly ruffle feathers and lead to accusations of engaging
+in wrong speech, a common way to turn the Dharma's own language into a defense. I feel comfortable
+asserting so, and I stand in good company with the Buddha, who in the sutta from which the epigraph
+is drawn gives us clear criteria for distinguishing between real Dharma and its counterfeit. As the
+essay has applied the same criteria throughout, I will let his words be the final verdict:
+
+> Just as, Kassapa, gold does not disappear so long as counterfeit gold has not arisen in the world,
+> but when counterfeit gold arises then true gold disappears, so the true Dhamma does not disappear
+> so long as a counterfeit of the true Dhamma has not arisen in the world, but when a counterfeit of
+> the true Dhamma arises in the world, then the true Dhamma disappears.
+>
+> It is not the earth element, Kassapa, that causes the true Dhamma to disappear, nor the water
+> element, nor the heat element, nor the air element. It is the senseless people who arise right
+> here who cause the true Dhamma to disappear.
+>
+> The true Dhamma does not disappear all at once in the way a ship sinks. There are, Kassapa, five
+> detrimental things that lead to the decay and disappearance of the true Dhamma. What are the five?
+> Here the bhikkhus, the bhikkhunīs, the male lay followers, and the female lay followers dwell
+> without reverence and deference towards the Teacher; they dwell without reverence and deference
+> towards the Dhamma; they dwell without reverence and deference towards the Saṅgha; they dwell
+> without reverence and deference towards the training; they dwell without reverence and deference
+> towards concentration. These, Kassapa, are the five detrimental things that lead to the decay and
+> disappearance of the true Dhamma.
+>
+> There are five things, Kassapa, that lead to the longevity of the true Dhamma, to its nondecay and
+> nondisappearance. What are the five? Here the bhikkhus, the bhikkhunīs, the male lay followers,
+> and the female lay followers dwell with reverence and deference towards the Teacher; they dwell
+> with reverence and deference towards the Dhamma; they dwell with reverence and deference towards
+> the Saṅgha; they dwell with reverence and deference towards the training; they dwell with
+> reverence and deference towards concentration. These, Kassapa, are the five things that lead to
+> the longevity of the true Dhamma, to its nondecay and nondisappearance.
