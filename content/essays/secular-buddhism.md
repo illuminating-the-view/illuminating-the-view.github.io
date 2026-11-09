@@ -614,17 +614,6 @@ guidance of a qualified teacher.
 
 ## Conclusion
 
-The essay has shown how naming the ideas of this movement as a valid form of Buddhism invites a
-comparison, on normative Buddhist terms, to existing traditions that leaves Secular Buddhism with no
-claim to be a tradition at all, let alone a legitimate one. The [rebecoming](/essays/rebecoming.md)
-essay and the additional examination of its ideas show how they are rooted in the views and
-limitations of its proponents, with Stephen Batchelor as a great case study. Finally, the idea that
-Secular Buddhism can dispense with central teachings on the basis of being a helpful introduction is
-ultimately shown to be a flimsy justification, on the basis of the many existing methods within
-Buddhism for introducing beginners and of the lack of a mechanism by which its followers graduate
-and go on to seek the guidance needed to understand, accept, and confirm the core ideas the movement
-preemptively marked as "supernatural".
-
 For those seeking to understand the full depth of the existential problem the Buddha set to solve,
 it is best to drop any connections to this counterfeit Dharma, accept the possibility that the
 Buddha's diagnosis is correct, and test his medicine on his own terms. Claiming outright that
