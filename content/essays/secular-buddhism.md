@@ -433,7 +433,7 @@ stating that theirs cannot be repaired.
 
 > If the master breaks samaya, there is no method of purification.  
 > \[...\]  
-> If the disciple breaks samaya, there is method of purification:  
+> If the disciple breaks samaya, there is a method of purification:  
 > recite the vast discourses  
 > and turn the vast wheels of the gaṇacakra.
 
