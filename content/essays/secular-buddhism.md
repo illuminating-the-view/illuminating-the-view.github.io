@@ -115,6 +115,19 @@ scriptures about the importance of testing the teachings for oneself as a blanke
 and choose teachings and do away with qualified teachers. Once again, for every such quote, one can
 find many that exalt the need for guidance.
 
+Claiming the lack of teachers and institutions appears incorrect at first in the presence of
+prominent teachers and institutions in this movement, like the aforementioned Secular Buddhist
+Network. It's not that they do not exist; it is that these teachers and institutions lack a valid
+transmission of their own. An investigation into the training backgrounds of these teachers provides
+a few common patterns: former monks trained in traditional lineages (with or without authorization
+to teach that lineage), training in modernist institutions (like the Insight Meditation Society,
+which itself traces back to modernist Theravada movements), or training under other secular
+teachers. None of these backgrounds give them traditional legitimacy: giving up one's vows is not a
+qualification; those with a valid lineage are only authorized to teach within the scope of their
+transmission; modernist institutions cannot claim to inherit a lineage by implicit association when
+they teach against that lineage; and secular institutions training their own disciples do not create
+a traditional Dharma lineage.
+
 In summary, while Secular Buddhism is certainly a movement tracing back to the modernist movements
 of the 19th and 20th centuries, with its own ideas, teachers, and followers, it cannot be considered
 a Buddhist tradition by the criteria that others meet. Most importantly, its claim to be based on
@@ -189,16 +202,15 @@ It is clear from these passages that Nirvana is more than the absence of psychol
 other mental phenomena. They also hint at literal rebirth since Nirvana must be present as an
 obscured potential in all beings, or else it would have to come about through a cause. As such, it
 must survive the breakup of the body, or else that obscured potential would vanish with the body.
-This argument from the Pali canon is what the Mahayana teachings of Buddha-nature explicitly argue.
 
 Since both the problem and the solution are turned into psychological versions, so must the path.
 The clearest example is how Batchelor argues in "Buddhism Without Beliefs" that the four noble
 truths are "not propositions to believe; they are challenges to act". He argues that the term "noble
 truths" is a mistranslation, but even if he were right, the very first task the Buddha asks us to do
 is to gain right view, and the first provisional version of that right view already includes literal
-rebirth and karma. Right View is foremost in the Eightfold Path because being a Buddha is nothing
-more than having Right View at all times. All other parts of the path are meant to support our
-ability to hold the view until we too do not deviate from it.
+rebirth and karma. Right View is foremost in the Eightfold Path because being a Buddha implies
+having Right View at all times. All other parts of the path are meant to support our ability to hold
+the view until we too do not deviate from it.
 
 Another problem with this argument is that it ignores the many beliefs that Secular Buddhists bring
 to their own practice. Whereas the beliefs of the Buddha are treated as cultural baggage, those of
@@ -437,13 +449,25 @@ stating that theirs cannot be repaired.
 > recite the vast discourses  
 > and turn the vast wheels of the gaṇacakra.
 
+If the teacher's instructions and the tantras are in conflict, the _Tantra Without Syllables_ gives
+clear guidance on which to follow:
+
+> Therefore, it is said there are no errors in the scriptures, but errors can arise in the intimate
+> instructions.
+
 Many more such passages could be provided, but these are enough to show that while the institutional
 forms may need reform, the traditional warnings are much more strict than those of would-be
-reformers.
+reformers. If reform is needed in Vajrayana to protect against abusive teachers, it must start with
+teachers making education on the mechanics of empowerment, samaya (of both students and teachers),
+and teacher qualifications more easily available and digestible. Teachers and institutions also need
+to create opportunities for teachers and students to investigate each other before empowerments are
+conferred, such as by giving public teaching on Sutra.
 
 In trying to do away with the guru, however, Batchelor goes much further than claiming they are not
-needed for Vajrayana: he claims they are not needed at all. He states that the Buddha replaced the
-guru with the spiritual friend:
+needed for Vajrayana: he claims that they have no legitimate special status in any tradition and
+that those who elevate them to what he disparagingly calls a "fourth jewel" need to be reformed from
+their feudalistic ideas. As proof, he states that the Buddha replaced the guru with the spiritual
+friend:
 
 > While the concept of the guru was present in the Upanishads that predated the advent of Buddhism,
 > Gotama rejected it in favor of finding a good friend (kalyanamitta), whose role was to help you
@@ -452,11 +476,12 @@ guru with the spiritual friend:
 Here he engages in silly word games to misinterpret the Pali canon one more time. Anyone whose role
 is to help you enter the eightfold path is a teacher, and "good friend" is merely a standard term
 for one in Theravada and Mahayana scripture. So is the word "guru," whose etymology means someone
-heavy, as in heavy with positive qualities. He then goes on to provide several quotes that he again
-misinterprets or places out of context to suggest that some Buddhist vehicles allow the student to
-do away with the teacher. The opposite is true, and since it has become tiring to address each
-misinterpretation, it is better to end this section with a selection of quotes from varied
-traditions that put the point to rest.
+heavy, as in heavy with positive qualities. And since the role of every Buddhist teacher, regardless
+of vehicle, is to establish students in the result, all teachers aim for their students to become
+independent. He then goes on to provide several quotes that he again misinterprets or places out of
+context to suggest that some Buddhist vehicles allow the student to do away with the teacher. The
+opposite is true, and since it has become tiring to address each misinterpretation, it is better to
+end this section with a selection of quotes from varied traditions that put the point to rest.
 
 > Sir, good friends, companions, and associates are half the spiritual life.
 >
